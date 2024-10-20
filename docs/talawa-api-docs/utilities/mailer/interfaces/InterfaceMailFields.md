@@ -16,7 +16,7 @@ Interface for the fields required to send an email.
 
 #### Defined in
 
-[src/utilities/mailer.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/utilities/mailer.ts#L17)
+[src/utilities/mailer.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/utilities/mailer.ts#L17)
 
 ***
 
@@ -26,7 +26,7 @@ Interface for the fields required to send an email.
 
 #### Defined in
 
-[src/utilities/mailer.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/utilities/mailer.ts#L15)
+[src/utilities/mailer.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/utilities/mailer.ts#L15)
 
 ***
 
@@ -36,4 +36,4 @@ Interface for the fields required to send an email.
 
 #### Defined in
 
-[src/utilities/mailer.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/utilities/mailer.ts#L16)
+[src/utilities/mailer.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/utilities/mailer.ts#L16)

@@ -27,4 +27,4 @@ A promise that resolves to an array of feedback documents found in the database.
 
 ## Defined in
 
-[src/resolvers/Event/feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/resolvers/Event/feedback.ts#L16)
+[src/resolvers/Event/feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Event/feedback.ts#L16)

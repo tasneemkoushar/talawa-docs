@@ -16,7 +16,7 @@ Enumeration for recurrence frequencies.
 
 #### Defined in
 
-[src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/models/RecurrenceRule.ts#L14)
+[src/models/RecurrenceRule.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/models/RecurrenceRule.ts#L14)
 
 ***
 
@@ -26,7 +26,7 @@ Enumeration for recurrence frequencies.
 
 #### Defined in
 
-[src/models/RecurrenceRule.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/models/RecurrenceRule.ts#L12)
+[src/models/RecurrenceRule.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/models/RecurrenceRule.ts#L12)
 
 ***
 
@@ -36,7 +36,7 @@ Enumeration for recurrence frequencies.
 
 #### Defined in
 
-[src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/models/RecurrenceRule.ts#L13)
+[src/models/RecurrenceRule.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/models/RecurrenceRule.ts#L13)
 
 ***
 
@@ -46,4 +46,4 @@ Enumeration for recurrence frequencies.
 
 #### Defined in
 
-[src/models/RecurrenceRule.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/models/RecurrenceRule.ts#L11)
+[src/models/RecurrenceRule.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/models/RecurrenceRule.ts#L11)

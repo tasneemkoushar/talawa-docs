@@ -45,4 +45,4 @@ If the language does not exist, a nsnew entry is created with the provided trala
 
 ## Defined in
 
-[src/resolvers/Mutation/addLanguageTranslation.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/resolvers/Mutation/addLanguageTranslation.ts#L33)
+[src/resolvers/Mutation/addLanguageTranslation.ts:33](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Mutation/addLanguageTranslation.ts#L33)

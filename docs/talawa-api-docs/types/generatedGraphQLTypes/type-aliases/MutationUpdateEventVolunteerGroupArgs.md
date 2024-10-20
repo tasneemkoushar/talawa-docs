@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1869](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/types/generatedGraphQLTypes.ts#L1869)
+[src/types/generatedGraphQLTypes.ts:1873](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L1873)

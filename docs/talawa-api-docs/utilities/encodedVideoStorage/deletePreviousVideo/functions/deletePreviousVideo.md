@@ -24,4 +24,4 @@ A promise that resolves once the video file and database entry are deleted or up
 
 ## Defined in
 
-[src/utilities/encodedVideoStorage/deletePreviousVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/utilities/encodedVideoStorage/deletePreviousVideo.ts#L11)
+[src/utilities/encodedVideoStorage/deletePreviousVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/utilities/encodedVideoStorage/deletePreviousVideo.ts#L11)

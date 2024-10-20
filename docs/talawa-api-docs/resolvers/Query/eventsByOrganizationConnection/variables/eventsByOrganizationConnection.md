@@ -29,4 +29,4 @@ A list of events matching the query parameters, with related data populated.
 
 ## Defined in
 
-[src/resolvers/Query/eventsByOrganizationConnection.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f9e8275b1ddff2d3edcec79ee3b37c07998f6cc3/src/resolvers/Query/eventsByOrganizationConnection.ts#L21)
+[src/resolvers/Query/eventsByOrganizationConnection.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Query/eventsByOrganizationConnection.ts#L21)
