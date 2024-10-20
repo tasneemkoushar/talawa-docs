@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/CheckIn/types.ts#L25)
+[src/components/CheckIn/types.ts:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/CheckIn/types.ts#L25)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/CheckIn/types.ts#L26)
+[src/components/CheckIn/types.ts:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/CheckIn/types.ts#L26)
 
 ***
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/CheckIn/types.ts#L24)
+[src/components/CheckIn/types.ts:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/CheckIn/types.ts#L24)

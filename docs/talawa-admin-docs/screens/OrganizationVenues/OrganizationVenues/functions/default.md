@@ -17,4 +17,4 @@ Handles searching, sorting, and CRUD operations for venues.
 
 ## Defined in
 
-[src/screens/OrganizationVenues/OrganizationVenues.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/OrganizationVenues/OrganizationVenues.tsx#L22)
+[src/screens/OrganizationVenues/OrganizationVenues.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationVenues/OrganizationVenues.tsx#L22)

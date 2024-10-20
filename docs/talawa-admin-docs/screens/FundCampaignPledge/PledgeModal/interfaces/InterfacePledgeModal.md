@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L31)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L31)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L35)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:35](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L35)
 
 ***
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L30)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L30)
 
 ***
 
@@ -48,17 +48,17 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L29)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L29)
 
 ***
 
 ### mode
 
-\> **mode**: `"create"` \| `"edit"`
+\> **mode**: `"edit"` \| `"create"`
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L36)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L36)
 
 ***
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L32)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L32)
 
 ***
 
@@ -78,7 +78,7 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L33)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L33)
 
 ***
 
@@ -92,4 +92,4 @@
 
 #### Defined in
 
-[src/screens/FundCampaignPledge/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/FundCampaignPledge/PledgeModal.tsx#L34)
+[src/screens/FundCampaignPledge/PledgeModal.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/FundCampaignPledge/PledgeModal.tsx#L34)

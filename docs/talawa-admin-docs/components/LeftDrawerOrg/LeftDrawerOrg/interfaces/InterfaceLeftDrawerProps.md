@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L20)
+[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L20)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L18)
+[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L18)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L21)
+[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L21)
 
 ***
 
@@ -44,4 +44,4 @@
 
 #### Defined in
 
-[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L19)
+[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L19)

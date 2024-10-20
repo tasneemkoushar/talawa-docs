@@ -24,4 +24,4 @@ JSX element representing the icon.
 
 ## Defined in
 
-[src/components/IconComponent/IconComponent.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/IconComponent/IconComponent.tsx#L37)
+[src/components/IconComponent/IconComponent.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/IconComponent/IconComponent.tsx#L39)

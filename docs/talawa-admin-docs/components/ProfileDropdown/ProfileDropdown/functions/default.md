@@ -25,4 +25,4 @@ JSX.Element - The profile dropdown menu.
 
 ## Defined in
 
-[src/components/ProfileDropdown/ProfileDropdown.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/components/ProfileDropdown/ProfileDropdown.tsx#L23)
+[src/components/ProfileDropdown/ProfileDropdown.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/ProfileDropdown/ProfileDropdown.tsx#L24)

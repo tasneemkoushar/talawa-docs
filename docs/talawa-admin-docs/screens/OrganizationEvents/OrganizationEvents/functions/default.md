@@ -26,4 +26,4 @@ JSX.Element to display the Organization Events Page
 
 ## Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/84f5af8b3720f5b290ac28bcfd7071c13e1f93aa/src/screens/OrganizationEvents/OrganizationEvents.tsx#L56)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:56](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationEvents/OrganizationEvents.tsx#L56)
