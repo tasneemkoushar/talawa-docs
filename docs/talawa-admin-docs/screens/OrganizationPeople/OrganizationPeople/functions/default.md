@@ -20,4 +20,4 @@ JSX.Element which contains the list of members, admins and users of the organiza
 
 ## Defined in
 
-[src/screens/OrganizationPeople/OrganizationPeople.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationPeople/OrganizationPeople.tsx#L31)
+[src/screens/OrganizationPeople/OrganizationPeople.tsx:31](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationPeople/OrganizationPeople.tsx#L31)

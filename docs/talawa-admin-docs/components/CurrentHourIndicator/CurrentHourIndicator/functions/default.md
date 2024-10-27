@@ -18,4 +18,4 @@ JSX.Element - The rendered component showing the current hour indicator.
 
 ## Defined in
 
-[src/components/CurrentHourIndicator/CurrentHourIndicator.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/CurrentHourIndicator/CurrentHourIndicator.tsx#L9)
+[src/components/CurrentHourIndicator/CurrentHourIndicator.tsx:9](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/CurrentHourIndicator/CurrentHourIndicator.tsx#L9)

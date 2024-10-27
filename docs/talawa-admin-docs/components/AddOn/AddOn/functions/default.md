@@ -24,4 +24,4 @@ The JSX element representing the AddOn component.
 
 ## Defined in
 
-[src/components/AddOn/AddOn.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/AddOn/AddOn.tsx#L22)
+[src/components/AddOn/AddOn.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/AddOn/AddOn.tsx#L22)

@@ -28,4 +28,4 @@ Dashboard card component
 
 ## Defined in
 
-[src/components/OrganizationDashCards/DashboardCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/OrganizationDashCards/DashboardCard.tsx#L13)
+[src/components/OrganizationDashCards/DashboardCard.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/OrganizationDashCards/DashboardCard.tsx#L13)

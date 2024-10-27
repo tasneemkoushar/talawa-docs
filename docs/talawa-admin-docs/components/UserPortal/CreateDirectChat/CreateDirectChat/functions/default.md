@@ -6,22 +6,16 @@
 
 # Function: default()
 
-\> **default**(`props`): `JSX.Element`
-
-Component for creating a direct chat with a selected user.
+\> **default**(`__namedParameters`): `JSX.Element`
 
 ## Parameters
 
-• **props**: `InterfaceCreateDirectChatProps`
-
-The props for the CreateDirectChat component.
+• **\_\_namedParameters**: `InterfaceCreateDirectChatProps`
 
 ## Returns
 
 `JSX.Element`
 
-JSX.Element
-
 ## Defined in
 
-[src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:73](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L73)
+[src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx:63](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/UserPortal/CreateDirectChat/CreateDirectChat.tsx#L63)

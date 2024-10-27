@@ -32,4 +32,4 @@ JSX.Element
 
 ## Defined in
 
-[src/screens/OrganizationFundCampaign/CampaignModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationFundCampaign/CampaignModal.tsx#L44)
+[src/screens/OrganizationFundCampaign/CampaignModal.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationFundCampaign/CampaignModal.tsx#L44)

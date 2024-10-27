@@ -22,4 +22,4 @@ JSX element for the removal confirmation modal.
 
 ## Defined in
 
-[src/components/OrgAdminListCard/OrgAdminListCard.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L22)
+[src/components/OrgAdminListCard/OrgAdminListCard.tsx:22](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L22)

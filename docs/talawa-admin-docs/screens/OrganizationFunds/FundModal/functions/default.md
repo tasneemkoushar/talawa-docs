@@ -54,4 +54,4 @@ The rendered modal dialog.
 
 ## Defined in
 
-[src/screens/OrganizationFunds/FundModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationFunds/FundModal.tsx#L52)
+[src/screens/OrganizationFunds/FundModal.tsx:52](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationFunds/FundModal.tsx#L52)

@@ -28,4 +28,4 @@ return (
 
 ## Defined in
 
-[src/components/Advertisements/Advertisements.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/Advertisements/Advertisements.tsx#L27)
+[src/components/Advertisements/Advertisements.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/Advertisements/Advertisements.tsx#L27)

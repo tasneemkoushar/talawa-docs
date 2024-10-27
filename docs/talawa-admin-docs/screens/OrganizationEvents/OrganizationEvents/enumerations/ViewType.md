@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationEvents/OrganizationEvents.tsx#L38)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationEvents/OrganizationEvents.tsx#L39)
 
 ***
 
@@ -34,4 +34,4 @@
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationEvents/OrganizationEvents.tsx#L40)

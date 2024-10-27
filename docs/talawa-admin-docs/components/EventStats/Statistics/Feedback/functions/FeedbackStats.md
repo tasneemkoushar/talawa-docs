@@ -25,4 +25,4 @@ JSX element representing the feedback analysis card with a pie chart.
 
 ## Defined in
 
-[src/components/EventStats/Statistics/Feedback.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/7496bb3a4c3730e7e3caee73f8bf91c3031e4ae6/src/components/EventStats/Statistics/Feedback.tsx#L34)
+[src/components/EventStats/Statistics/Feedback.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/EventStats/Statistics/Feedback.tsx#L34)
