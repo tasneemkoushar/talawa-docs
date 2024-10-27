@@ -28,4 +28,4 @@ A promise that resolves once the image is successfully deleted
 
 ## Defined in
 
-[src/utilities/deleteImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/utilities/deleteImage.ts#L13)
+[src/utilities/deleteImage.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/utilities/deleteImage.ts#L13)

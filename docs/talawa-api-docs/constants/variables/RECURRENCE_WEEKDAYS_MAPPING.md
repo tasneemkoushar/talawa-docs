@@ -40,4 +40,4 @@
 
 ## Defined in
 
-[src/constants.ts:787](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/constants.ts#L787)
+[src/constants.ts:794](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/constants.ts#L794)

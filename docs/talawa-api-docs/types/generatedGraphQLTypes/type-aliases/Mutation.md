@@ -50,17 +50,9 @@
 
 \> **addUserImage**: [`User`](User.md)
 
-### addUserToGroupChat
-
-\> **addUserToGroupChat**: [`GroupChat`](GroupChat.md)
-
 ### addUserToUserFamily
 
 \> **addUserToUserFamily**: [`UserFamily`](UserFamily.md)
-
-### adminRemoveGroup
-
-\> **adminRemoveGroup**: [`GroupChat`](GroupChat.md)
 
 ### assignUserTag?
 
@@ -114,13 +106,13 @@
 
 \> **createAgendaSection**: [`AgendaSection`](AgendaSection.md)
 
+### createChat?
+
+\> `optional` **createChat**: [`Maybe`](Maybe.md)\<[`Chat`](Chat.md)\>
+
 ### createComment?
 
 \> `optional` **createComment**: [`Maybe`](Maybe.md)\<[`Comment`](Comment.md)\>
-
-### createDirectChat
-
-\> **createDirectChat**: [`DirectChat`](DirectChat.md)
 
 ### createDonation
 
@@ -150,17 +142,9 @@
 
 \> **createFundraisingCampaignPledge**: [`FundraisingCampaignPledge`](FundraisingCampaignPledge.md)
 
-### createGroupChat
-
-\> **createGroupChat**: [`GroupChat`](GroupChat.md)
-
 ### createMember
 
 \> **createMember**: [`CreateMemberPayload`](CreateMemberPayload.md)
-
-### createMessageChat
-
-\> **createMessageChat**: [`MessageChat`](MessageChat.md)
 
 ### createNote
 
@@ -298,10 +282,6 @@
 
 \> `optional` **removeComment**: [`Maybe`](Maybe.md)\<[`Comment`](Comment.md)\>
 
-### removeDirectChat
-
-\> **removeDirectChat**: [`DirectChat`](DirectChat.md)
-
 ### removeEvent
 
 \> **removeEvent**: [`Event`](Event.md)
@@ -321,10 +301,6 @@
 ### removeFundraisingCampaignPledge
 
 \> **removeFundraisingCampaignPledge**: [`FundraisingCampaignPledge`](FundraisingCampaignPledge.md)
-
-### removeGroupChat
-
-\> **removeGroupChat**: [`GroupChat`](GroupChat.md)
 
 ### removeMember
 
@@ -358,10 +334,6 @@
 
 \> **removeUserFamily**: [`UserFamily`](UserFamily.md)
 
-### removeUserFromGroupChat
-
-\> **removeUserFromGroupChat**: [`GroupChat`](GroupChat.md)
-
 ### removeUserFromUserFamily
 
 \> **removeUserFromUserFamily**: [`UserFamily`](UserFamily.md)
@@ -390,13 +362,9 @@
 
 \> **sendMembershipRequest**: [`MembershipRequest`](MembershipRequest.md)
 
-### sendMessageToDirectChat
+### sendMessageToChat
 
-\> **sendMessageToDirectChat**: [`DirectChatMessage`](DirectChatMessage.md)
-
-### sendMessageToGroupChat
-
-\> **sendMessageToGroupChat**: [`GroupChatMessage`](GroupChatMessage.md)
+\> **sendMessageToChat**: [`ChatMessage`](ChatMessage.md)
 
 ### signUp
 
@@ -520,4 +488,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1168](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L1168)
+[src/types/generatedGraphQLTypes.ts:1139](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L1139)

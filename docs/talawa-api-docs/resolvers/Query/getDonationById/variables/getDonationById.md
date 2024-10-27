@@ -22,4 +22,4 @@ A `donation` object.
 
 ## Defined in
 
-[src/resolvers/Query/getDonationById.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Query/getDonationById.ts#L11)
+[src/resolvers/Query/getDonationById.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Query/getDonationById.ts#L11)

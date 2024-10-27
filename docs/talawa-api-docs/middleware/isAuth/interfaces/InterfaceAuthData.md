@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/middleware/isAuth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/middleware/isAuth.ts#L9)
+[src/middleware/isAuth.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/middleware/isAuth.ts#L9)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/middleware/isAuth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/middleware/isAuth.ts#L8)
+[src/middleware/isAuth.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/middleware/isAuth.ts#L8)
 
 ***
 
@@ -34,4 +34,4 @@
 
 #### Defined in
 
-[src/middleware/isAuth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/middleware/isAuth.ts#L10)
+[src/middleware/isAuth.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/middleware/isAuth.ts#L10)

@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/typeDefs/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/typeDefs/index.ts#L19)
+[src/typeDefs/index.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/typeDefs/index.ts#L19)

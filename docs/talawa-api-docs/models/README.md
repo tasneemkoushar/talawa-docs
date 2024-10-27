@@ -68,6 +68,18 @@ Re-exports [AppUserProfile](AppUserProfile/variables/AppUserProfile.md)
 
 ***
 
+### Chat
+
+Re-exports [Chat](Chat/variables/Chat.md)
+
+***
+
+### ChatMessage
+
+Re-exports [ChatMessage](ChatMessage/variables/ChatMessage.md)
+
+***
+
 ### CheckIn
 
 Re-exports [CheckIn](CheckIn/variables/CheckIn.md)
@@ -95,18 +107,6 @@ Re-exports [Community](Community/variables/Community.md)
 ### CurrencyType
 
 Re-exports [CurrencyType](FundraisingCampaign/enumerations/CurrencyType.md)
-
-***
-
-### DirectChat
-
-Re-exports [DirectChat](DirectChat/variables/DirectChat.md)
-
-***
-
-### DirectChatMessage
-
-Re-exports [DirectChatMessage](DirectChatMessage/variables/DirectChatMessage.md)
 
 ***
 
@@ -176,18 +176,6 @@ Re-exports [Group](Group/variables/Group.md)
 
 ***
 
-### GroupChat
-
-Re-exports [GroupChat](GroupChat/variables/GroupChat.md)
-
-***
-
-### GroupChatMessage
-
-Re-exports [GroupChatMessage](GroupChatMessage/variables/GroupChatMessage.md)
-
-***
-
 ### ImageHash
 
 Re-exports [ImageHash](ImageHash/variables/ImageHash.md)
@@ -236,6 +224,18 @@ Re-exports [InterfaceAppUserProfile](AppUserProfile/interfaces/InterfaceAppUserP
 
 ***
 
+### InterfaceChat
+
+Re-exports [InterfaceChat](Chat/interfaces/InterfaceChat.md)
+
+***
+
+### InterfaceChatMessage
+
+Re-exports [InterfaceChatMessage](ChatMessage/interfaces/InterfaceChatMessage.md)
+
+***
+
 ### InterfaceCheckIn
 
 Re-exports [InterfaceCheckIn](CheckIn/interfaces/InterfaceCheckIn.md)
@@ -257,18 +257,6 @@ Re-exports [InterfaceComment](Comment/interfaces/InterfaceComment.md)
 ### InterfaceCommunity
 
 Re-exports [InterfaceCommunity](Community/interfaces/InterfaceCommunity.md)
-
-***
-
-### InterfaceDirectChat
-
-Re-exports [InterfaceDirectChat](DirectChat/interfaces/InterfaceDirectChat.md)
-
-***
-
-### InterfaceDirectChatMessage
-
-Re-exports [InterfaceDirectChatMessage](DirectChatMessage/interfaces/InterfaceDirectChatMessage.md)
 
 ***
 
@@ -329,18 +317,6 @@ Re-exports [InterfaceFundraisingCampaign](FundraisingCampaign/interfaces/Interfa
 ### InterfaceGroup
 
 Re-exports [InterfaceGroup](Group/interfaces/InterfaceGroup.md)
-
-***
-
-### InterfaceGroupChat
-
-Re-exports [InterfaceGroupChat](GroupChat/interfaces/InterfaceGroupChat.md)
-
-***
-
-### InterfaceGroupChatMessage
-
-Re-exports [InterfaceGroupChatMessage](GroupChatMessage/interfaces/InterfaceGroupChatMessage.md)
 
 ***
 

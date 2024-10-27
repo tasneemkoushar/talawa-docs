@@ -49,7 +49,7 @@ Optional additional metadata associated with the error (default is an empty obje
 
 #### Defined in
 
-[src/libraries/errors/ImageSizeLimitExceeded.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/libraries/errors/ImageSizeLimitExceeded.ts#L16)
+[src/libraries/errors/ImageSizeLimitExceeded.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/libraries/errors/ImageSizeLimitExceeded.ts#L16)
 
 ## Properties
 
@@ -65,7 +65,7 @@ An array of errors conforming to the InterfaceError interface
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/libraries/errors/applicationError.ts#L21)
+[src/libraries/errors/applicationError.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/libraries/errors/applicationError.ts#L21)
 
 ***
 
@@ -81,7 +81,7 @@ The HTTP status code associated with the error
 
 #### Defined in
 
-[src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/libraries/errors/applicationError.ts#L23)
+[src/libraries/errors/applicationError.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/libraries/errors/applicationError.ts#L23)
 
 ***
 

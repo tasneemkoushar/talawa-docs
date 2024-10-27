@@ -14,4 +14,4 @@ Otherwise, it creates a new model.
 
 ## Defined in
 
-[src/models/SampleData.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/models/SampleData.ts#L51)
+[src/models/SampleData.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/SampleData.ts#L51)

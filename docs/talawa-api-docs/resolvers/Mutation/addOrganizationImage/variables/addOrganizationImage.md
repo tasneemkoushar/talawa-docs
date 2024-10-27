@@ -54,4 +54,4 @@ It then verifies the user's admin status and performs the image upload before up
 
 ## Defined in
 
-[src/resolvers/Mutation/addOrganizationImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/Mutation/addOrganizationImage.ts#L44)
+[src/resolvers/Mutation/addOrganizationImage.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/addOrganizationImage.ts#L44)

@@ -50,6 +50,14 @@
 
 \> `optional` **agendaItemCategoriesByOrganization**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`AgendaCategory`](AgendaCategory.md)\>[]\>
 
+### chatById
+
+\> **chatById**: [`Chat`](Chat.md)
+
+### chatsByUserId?
+
+\> `optional` **chatsByUserId**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Chat`](Chat.md)\>[]\>
+
 ### checkAuth
 
 \> **checkAuth**: [`User`](User.md)
@@ -61,18 +69,6 @@
 ### customFieldsByOrganization?
 
 \> `optional` **customFieldsByOrganization**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`OrganizationCustomField`](OrganizationCustomField.md)\>[]\>
-
-### directChatById?
-
-\> `optional` **directChatById**: [`Maybe`](Maybe.md)\<[`DirectChat`](DirectChat.md)\>
-
-### directChatsByUserID?
-
-\> `optional` **directChatsByUserID**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`DirectChat`](DirectChat.md)\>[]\>
-
-### directChatsMessagesByChatID?
-
-\> `optional` **directChatsMessagesByChatID**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`DirectChatMessage`](DirectChatMessage.md)\>[]\>
 
 ### event?
 
@@ -182,14 +178,6 @@
 
 \> `optional` **getlanguage**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Translation`](Translation.md)\>[]\>
 
-### groupChatById?
-
-\> `optional` **groupChatById**: [`Maybe`](Maybe.md)\<[`GroupChat`](GroupChat.md)\>
-
-### groupChatsByUserId?
-
-\> `optional` **groupChatsByUserId**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`GroupChat`](GroupChat.md)\>[]\>
-
 ### hasSubmittedFeedback?
 
 \> `optional` **hasSubmittedFeedback**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]\>
@@ -260,4 +248,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2279](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L2279)
+[src/types/generatedGraphQLTypes.ts:2199](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2199)

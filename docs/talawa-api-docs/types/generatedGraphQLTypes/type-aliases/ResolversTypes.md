@@ -100,6 +100,14 @@ Mapping between all available schema types and the resolvers types
 
 \> **CampaignWhereInput**: [`CampaignWhereInput`](CampaignWhereInput.md)
 
+### Chat
+
+\> **Chat**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceChat`](../../../models/Chat/interfaces/InterfaceChat.md)\>
+
+### ChatMessage
+
+\> **ChatMessage**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceChatMessage`](../../../models/ChatMessage/interfaces/InterfaceChatMessage.md)\>
+
 ### CheckIn
 
 \> **CheckIn**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceCheckIn`](../../../models/CheckIn/interfaces/InterfaceCheckIn.md)\>
@@ -223,14 +231,6 @@ Mapping between all available schema types and the resolvers types
 ### DeletePayload
 
 \> **DeletePayload**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`DeletePayload`](DeletePayload.md)\>
-
-### DirectChat
-
-\> **DirectChat**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceDirectChat`](../../../models/DirectChat/interfaces/InterfaceDirectChat.md)\>
-
-### DirectChatMessage
-
-\> **DirectChatMessage**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceDirectChatMessage`](../../../models/DirectChatMessage/interfaces/InterfaceDirectChatMessage.md)\>
 
 ### Donation
 
@@ -376,14 +376,6 @@ Mapping between all available schema types and the resolvers types
 
 \> **Group**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)\>
 
-### GroupChat
-
-\> **GroupChat**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceGroupChat`](../../../models/GroupChat/interfaces/InterfaceGroupChat.md)\>
-
-### GroupChatMessage
-
-\> **GroupChatMessage**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceGroupChatMessage`](../../../models/GroupChatMessage/interfaces/InterfaceGroupChatMessage.md)\>
-
 ### ID
 
 \> **ID**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"output"`\]\>
@@ -455,10 +447,6 @@ Mapping between all available schema types and the resolvers types
 ### Message
 
 \> **Message**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceMessage`](../../../models/Message/interfaces/InterfaceMessage.md)\>
-
-### MessageChat
-
-\> **MessageChat**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceMessageChat`](../../../models/MessageChat/interfaces/InterfaceMessageChat.md)\>
 
 ### MessageChatInput
 
@@ -848,13 +836,9 @@ Mapping between all available schema types and the resolvers types
 
 \> **WeekDays**: [`WeekDays`](WeekDays.md)
 
-### createChatInput
+### chatInput
 
-\> **createChatInput**: [`CreateChatInput`](CreateChatInput.md)
-
-### createDirectChatPayload
-
-\> **createDirectChatPayload**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Omit`](Omit.md)\<[`CreateDirectChatPayload`](CreateDirectChatPayload.md), `"directChat"` \| `"userErrors"`\> & `object`\>
+\> **chatInput**: [`ChatInput`](ChatInput.md)
 
 ### createGroupChatInput
 
@@ -866,4 +850,4 @@ Mapping between all available schema types and the resolvers types
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3313](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L3313)
+[src/types/generatedGraphQLTypes.ts:3205](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L3205)

@@ -12,4 +12,4 @@ Array of all error definitions.
 
 ## Defined in
 
-[src/typeDefs/errors/index.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/typeDefs/errors/index.ts#L11)
+[src/typeDefs/errors/index.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/typeDefs/errors/index.ts#L11)

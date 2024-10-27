@@ -51,4 +51,4 @@ The result of the next function in the resolver chain.
 
 ## Defined in
 
-[src/resolvers/middleware/currentUserExists.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/resolvers/middleware/currentUserExists.ts#L21)
+[src/resolvers/middleware/currentUserExists.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/middleware/currentUserExists.ts#L21)

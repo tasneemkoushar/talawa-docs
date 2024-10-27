@@ -110,6 +110,14 @@ Mapping between all available schema types and the resolvers parents
 
 \> **CampaignWhereInput**: [`CampaignWhereInput`](CampaignWhereInput.md)
 
+### Chat
+
+\> **Chat**: [`InterfaceChat`](../../../models/Chat/interfaces/InterfaceChat.md)
+
+### ChatMessage
+
+\> **ChatMessage**: [`InterfaceChatMessage`](../../../models/ChatMessage/interfaces/InterfaceChatMessage.md)
+
 ### CheckIn
 
 \> **CheckIn**: [`InterfaceCheckIn`](../../../models/CheckIn/interfaces/InterfaceCheckIn.md)
@@ -282,14 +290,6 @@ Mapping between all available schema types and the resolvers parents
 
 \> **DeletePayload**: [`DeletePayload`](DeletePayload.md)
 
-### DirectChat
-
-\> **DirectChat**: [`InterfaceDirectChat`](../../../models/DirectChat/interfaces/InterfaceDirectChat.md)
-
-### DirectChatMessage
-
-\> **DirectChatMessage**: [`InterfaceDirectChatMessage`](../../../models/DirectChatMessage/interfaces/InterfaceDirectChatMessage.md)
-
 ### Donation
 
 \> **Donation**: [`InterfaceDonation`](../../../models/Donation/interfaces/InterfaceDonation.md)
@@ -406,14 +406,6 @@ Mapping between all available schema types and the resolvers parents
 
 \> **Group**: [`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)
 
-### GroupChat
-
-\> **GroupChat**: [`InterfaceGroupChat`](../../../models/GroupChat/interfaces/InterfaceGroupChat.md)
-
-### GroupChatMessage
-
-\> **GroupChatMessage**: [`InterfaceGroupChatMessage`](../../../models/GroupChatMessage/interfaces/InterfaceGroupChatMessage.md)
-
 ### ID
 
 \> **ID**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"output"`\]
@@ -477,10 +469,6 @@ Mapping between all available schema types and the resolvers parents
 ### Message
 
 \> **Message**: [`InterfaceMessage`](../../../models/Message/interfaces/InterfaceMessage.md)
-
-### MessageChat
-
-\> **MessageChat**: [`InterfaceMessageChat`](../../../models/MessageChat/interfaces/InterfaceMessageChat.md)
 
 ### MessageChatInput
 
@@ -886,23 +874,9 @@ Mapping between all available schema types and the resolvers parents
 
 \> **VenueWhereInput**: [`VenueWhereInput`](VenueWhereInput.md)
 
-### createChatInput
+### chatInput
 
-\> **createChatInput**: [`CreateChatInput`](CreateChatInput.md)
-
-### createDirectChatPayload
-
-\> **createDirectChatPayload**: [`Omit`](Omit.md)\<[`CreateDirectChatPayload`](CreateDirectChatPayload.md), `"directChat"` \| `"userErrors"`\> & `object`
-
-#### Type declaration
-
-##### directChat?
-
-\> `optional` **directChat**: [`Maybe`](Maybe.md)\<[`ResolversParentTypes`](ResolversParentTypes.md)\[`"DirectChat"`\]\>
-
-##### userErrors
-
-\> **userErrors**: [`ResolversParentTypes`](ResolversParentTypes.md)\[`"CreateDirectChatError"`\][]
+\> **chatInput**: [`ChatInput`](ChatInput.md)
 
 ### createGroupChatInput
 
@@ -914,4 +888,4 @@ Mapping between all available schema types and the resolvers parents
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3530](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L3530)
+[src/types/generatedGraphQLTypes.ts:3418](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L3418)

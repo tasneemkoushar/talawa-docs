@@ -52,6 +52,14 @@
 
 \> `optional` **agendaItemCategoriesByOrganization**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"AgendaCategory"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryAgendaItemCategoriesByOrganizationArgs`](QueryAgendaItemCategoriesByOrganizationArgs.md), `"organizationId"`\>\>
 
+### chatById?
+
+\> `optional` **chatById**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryChatByIdArgs`](QueryChatByIdArgs.md), `"id"`\>\>
+
+### chatsByUserId?
+
+\> `optional` **chatsByUserId**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryChatsByUserIdArgs`](QueryChatsByUserIdArgs.md), `"id"`\>\>
+
 ### checkAuth?
 
 \> `optional` **checkAuth**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"User"`\], `ParentType`, `ContextType`\>
@@ -63,18 +71,6 @@
 ### customFieldsByOrganization?
 
 \> `optional` **customFieldsByOrganization**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"OrganizationCustomField"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryCustomFieldsByOrganizationArgs`](QueryCustomFieldsByOrganizationArgs.md), `"id"`\>\>
-
-### directChatById?
-
-\> `optional` **directChatById**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChat"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryDirectChatByIdArgs`](QueryDirectChatByIdArgs.md), `"id"`\>\>
-
-### directChatsByUserID?
-
-\> `optional` **directChatsByUserID**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChat"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryDirectChatsByUserIdArgs`](QueryDirectChatsByUserIdArgs.md), `"id"`\>\>
-
-### directChatsMessagesByChatID?
-
-\> `optional` **directChatsMessagesByChatID**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChatMessage"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryDirectChatsMessagesByChatIdArgs`](QueryDirectChatsMessagesByChatIdArgs.md), `"id"`\>\>
 
 ### event?
 
@@ -184,14 +180,6 @@
 
 \> `optional` **getlanguage**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Translation"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetlanguageArgs`](QueryGetlanguageArgs.md), `"lang_code"`\>\>
 
-### groupChatById?
-
-\> `optional` **groupChatById**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGroupChatByIdArgs`](QueryGroupChatByIdArgs.md), `"id"`\>\>
-
-### groupChatsByUserId?
-
-\> `optional` **groupChatsByUserId**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGroupChatsByUserIdArgs`](QueryGroupChatsByUserIdArgs.md), `"id"`\>\>
-
 ### hasSubmittedFeedback?
 
 \> `optional` **hasSubmittedFeedback**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Boolean"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryHasSubmittedFeedbackArgs`](QueryHasSubmittedFeedbackArgs.md), `"eventId"` \| `"userId"`\>\>
@@ -262,4 +250,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4595](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L4595)
+[src/types/generatedGraphQLTypes.ts:4444](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4444)

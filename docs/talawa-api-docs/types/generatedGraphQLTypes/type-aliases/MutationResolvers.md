@@ -52,17 +52,9 @@
 
 \> `optional` **addUserImage**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"User"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserImageArgs`](MutationAddUserImageArgs.md), `"file"`\>\>
 
-### addUserToGroupChat?
-
-\> `optional` **addUserToGroupChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserToGroupChatArgs`](MutationAddUserToGroupChatArgs.md), `"chatId"` \| `"userId"`\>\>
-
 ### addUserToUserFamily?
 
 \> `optional` **addUserToUserFamily**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserFamily"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserToUserFamilyArgs`](MutationAddUserToUserFamilyArgs.md), `"familyId"` \| `"userId"`\>\>
-
-### adminRemoveGroup?
-
-\> `optional` **adminRemoveGroup**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAdminRemoveGroupArgs`](MutationAdminRemoveGroupArgs.md), `"groupId"`\>\>
 
 ### assignUserTag?
 
@@ -116,13 +108,13 @@
 
 \> `optional` **createAgendaSection**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"AgendaSection"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateAgendaSectionArgs`](MutationCreateAgendaSectionArgs.md), `"input"`\>\>
 
+### createChat?
+
+\> `optional` **createChat**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Chat"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateChatArgs`](MutationCreateChatArgs.md), `"data"`\>\>
+
 ### createComment?
 
 \> `optional` **createComment**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Comment"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateCommentArgs`](MutationCreateCommentArgs.md), `"data"` \| `"postId"`\>\>
-
-### createDirectChat?
-
-\> `optional` **createDirectChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateDirectChatArgs`](MutationCreateDirectChatArgs.md), `"data"`\>\>
 
 ### createDonation?
 
@@ -152,17 +144,9 @@
 
 \> `optional` **createFundraisingCampaignPledge**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"FundraisingCampaignPledge"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateFundraisingCampaignPledgeArgs`](MutationCreateFundraisingCampaignPledgeArgs.md), `"data"`\>\>
 
-### createGroupChat?
-
-\> `optional` **createGroupChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateGroupChatArgs`](MutationCreateGroupChatArgs.md), `"data"`\>\>
-
 ### createMember?
 
 \> `optional` **createMember**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"CreateMemberPayload"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateMemberArgs`](MutationCreateMemberArgs.md), `"input"`\>\>
-
-### createMessageChat?
-
-\> `optional` **createMessageChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"MessageChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateMessageChatArgs`](MutationCreateMessageChatArgs.md), `"data"`\>\>
 
 ### createNote?
 
@@ -300,10 +284,6 @@
 
 \> `optional` **removeComment**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Comment"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveCommentArgs`](MutationRemoveCommentArgs.md), `"id"`\>\>
 
-### removeDirectChat?
-
-\> `optional` **removeDirectChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveDirectChatArgs`](MutationRemoveDirectChatArgs.md), `"chatId"` \| `"organizationId"`\>\>
-
 ### removeEvent?
 
 \> `optional` **removeEvent**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveEventArgs`](MutationRemoveEventArgs.md), `"id"`\>\>
@@ -323,10 +303,6 @@
 ### removeFundraisingCampaignPledge?
 
 \> `optional` **removeFundraisingCampaignPledge**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"FundraisingCampaignPledge"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveFundraisingCampaignPledgeArgs`](MutationRemoveFundraisingCampaignPledgeArgs.md), `"id"`\>\>
-
-### removeGroupChat?
-
-\> `optional` **removeGroupChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveGroupChatArgs`](MutationRemoveGroupChatArgs.md), `"chatId"`\>\>
 
 ### removeMember?
 
@@ -360,10 +336,6 @@
 
 \> `optional` **removeUserFamily**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserFamily"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveUserFamilyArgs`](MutationRemoveUserFamilyArgs.md), `"familyId"`\>\>
 
-### removeUserFromGroupChat?
-
-\> `optional` **removeUserFromGroupChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChat"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveUserFromGroupChatArgs`](MutationRemoveUserFromGroupChatArgs.md), `"chatId"` \| `"userId"`\>\>
-
 ### removeUserFromUserFamily?
 
 \> `optional` **removeUserFromUserFamily**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserFamily"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveUserFromUserFamilyArgs`](MutationRemoveUserFromUserFamilyArgs.md), `"familyId"` \| `"userId"`\>\>
@@ -392,13 +364,9 @@
 
 \> `optional` **sendMembershipRequest**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"MembershipRequest"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMembershipRequestArgs`](MutationSendMembershipRequestArgs.md), `"organizationId"`\>\>
 
-### sendMessageToDirectChat?
+### sendMessageToChat?
 
-\> `optional` **sendMessageToDirectChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DirectChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMessageToDirectChatArgs`](MutationSendMessageToDirectChatArgs.md), `"chatId"` \| `"messageContent"`\>\>
-
-### sendMessageToGroupChat?
-
-\> `optional` **sendMessageToGroupChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"GroupChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMessageToGroupChatArgs`](MutationSendMessageToGroupChatArgs.md), `"chatId"` \| `"messageContent"`\>\>
+\> `optional` **sendMessageToChat**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ChatMessage"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationSendMessageToChatArgs`](MutationSendMessageToChatArgs.md), `"chatId"` \| `"messageContent"`\>\>
 
 ### signUp?
 
@@ -522,4 +490,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4321](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L4321)
+[src/types/generatedGraphQLTypes.ts:4178](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4178)

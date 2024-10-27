@@ -70,6 +70,14 @@
 
 \> `optional` **AuthData**: [`AuthDataResolvers`](AuthDataResolvers.md)\<`ContextType`\>
 
+### Chat?
+
+\> `optional` **Chat**: [`ChatResolvers`](ChatResolvers.md)\<`ContextType`\>
+
+### ChatMessage?
+
+\> `optional` **ChatMessage**: [`ChatMessageResolvers`](ChatMessageResolvers.md)\<`ContextType`\>
+
 ### CheckIn?
 
 \> `optional` **CheckIn**: [`CheckInResolvers`](CheckInResolvers.md)\<`ContextType`\>
@@ -154,14 +162,6 @@
 
 \> `optional` **DeletePayload**: [`DeletePayloadResolvers`](DeletePayloadResolvers.md)\<`ContextType`\>
 
-### DirectChat?
-
-\> `optional` **DirectChat**: [`DirectChatResolvers`](DirectChatResolvers.md)\<`ContextType`\>
-
-### DirectChatMessage?
-
-\> `optional` **DirectChatMessage**: [`DirectChatMessageResolvers`](DirectChatMessageResolvers.md)\<`ContextType`\>
-
 ### Donation?
 
 \> `optional` **Donation**: [`DonationResolvers`](DonationResolvers.md)\<`ContextType`\>
@@ -218,14 +218,6 @@
 
 \> `optional` **Group**: [`GroupResolvers`](GroupResolvers.md)\<`ContextType`\>
 
-### GroupChat?
-
-\> `optional` **GroupChat**: [`GroupChatResolvers`](GroupChatResolvers.md)\<`ContextType`\>
-
-### GroupChatMessage?
-
-\> `optional` **GroupChatMessage**: [`GroupChatMessageResolvers`](GroupChatMessageResolvers.md)\<`ContextType`\>
-
 ### InvalidCursor?
 
 \> `optional` **InvalidCursor**: [`InvalidCursorResolvers`](InvalidCursorResolvers.md)\<`ContextType`\>
@@ -269,10 +261,6 @@
 ### Message?
 
 \> `optional` **Message**: [`MessageResolvers`](MessageResolvers.md)\<`ContextType`\>
-
-### MessageChat?
-
-\> `optional` **MessageChat**: [`MessageChatResolvers`](MessageChatResolvers.md)\<`ContextType`\>
 
 ### MinimumLengthError?
 
@@ -454,10 +442,6 @@
 
 \> `optional` **Venue**: [`VenueResolvers`](VenueResolvers.md)\<`ContextType`\>
 
-### createDirectChatPayload?
-
-\> `optional` **createDirectChatPayload**: [`CreateDirectChatPayloadResolvers`](CreateDirectChatPayloadResolvers.md)\<`ContextType`\>
-
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4860](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/types/generatedGraphQLTypes.ts#L4860)
+[src/types/generatedGraphQLTypes.ts:4698](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4698)

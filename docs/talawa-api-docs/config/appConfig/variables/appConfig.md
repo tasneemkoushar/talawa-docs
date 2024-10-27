@@ -45,4 +45,4 @@ An array of supported language for the application.
 
 ## Defined in
 
-[src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/f1c816bca43cc03a8c1bd303394e2550a50db017/src/config/appConfig.ts#L5)
+[src/config/appConfig.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/config/appConfig.ts#L5)
