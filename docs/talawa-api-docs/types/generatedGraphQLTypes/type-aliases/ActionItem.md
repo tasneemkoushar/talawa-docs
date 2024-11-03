@@ -22,13 +22,25 @@
 
 \> `optional` **actionItemCategory**: [`Maybe`](Maybe.md)\<[`ActionItemCategory`](ActionItemCategory.md)\>
 
-### allotedHours?
+### allottedHours?
 
-\> `optional` **allotedHours**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Float"`\]\[`"output"`\]\>
+\> `optional` **allottedHours**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Float"`\]\[`"output"`\]\>
 
 ### assignee?
 
-\> `optional` **assignee**: [`Maybe`](Maybe.md)\<[`User`](User.md)\>
+\> `optional` **assignee**: [`Maybe`](Maybe.md)\<[`EventVolunteer`](EventVolunteer.md)\>
+
+### assigneeGroup?
+
+\> `optional` **assigneeGroup**: [`Maybe`](Maybe.md)\<[`EventVolunteerGroup`](EventVolunteerGroup.md)\>
+
+### assigneeType
+
+\> **assigneeType**: [`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]
+
+### assigneeUser?
+
+\> `optional` **assigneeUser**: [`Maybe`](Maybe.md)\<[`User`](User.md)\>
 
 ### assigner?
 
@@ -76,4 +88,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L69)
+[src/types/generatedGraphQLTypes.ts:69](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L69)

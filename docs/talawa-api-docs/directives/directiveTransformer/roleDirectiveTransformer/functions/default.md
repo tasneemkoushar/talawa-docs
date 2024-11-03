@@ -40,4 +40,4 @@ const transformedSchema = roleDirectiveTransformer(originalSchema, 'role');
 
 ## Defined in
 
-[src/directives/directiveTransformer/roleDirectiveTransformer.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/directives/directiveTransformer/roleDirectiveTransformer.ts#L24)
+[src/directives/directiveTransformer/roleDirectiveTransformer.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/directives/directiveTransformer/roleDirectiveTransformer.ts#L24)

@@ -18,8 +18,8 @@ An object that contains `id` of the user.
 
 ## Returns
 
-An object `directChats` that contains all direct chats of the current user.
-If the `directChats` object is null then it throws `NotFoundError` error.
+An object `chats` that contains all chats of the current user.
+If the `Chats` object is null then returns an empty array.
 
 ## Remarks
 
@@ -28,4 +28,4 @@ You can learn about GraphQL `Resolvers`
 
 ## Defined in
 
-[src/resolvers/Query/chatsByUserId.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Query/chatsByUserId.ts#L12)
+[src/resolvers/Query/chatsByUserId.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Query/chatsByUserId.ts#L12)

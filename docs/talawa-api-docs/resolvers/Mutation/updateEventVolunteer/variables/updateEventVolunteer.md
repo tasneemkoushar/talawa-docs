@@ -28,8 +28,8 @@ The following checks are done:
 1. Whether the user exists
 2. Whether the EventVolunteer exists
 3. Whether the current user is the user of EventVolunteer
-4. Whether the EventVolunteer is invited
+4. Update the EventVolunteer
 
 ## Defined in
 
-[src/resolvers/Mutation/updateEventVolunteer.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/updateEventVolunteer.ts#L24)
+[src/resolvers/Mutation/updateEventVolunteer.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/updateEventVolunteer.ts#L21)

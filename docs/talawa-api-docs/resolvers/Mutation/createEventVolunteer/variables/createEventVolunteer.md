@@ -11,13 +11,12 @@
 Creates a new event volunteer entry.
 
 This function performs the following actions:
-1. Verifies the existence of the current user.
-2. Verifies the existence of the volunteer user.
-3. Verifies the existence of the event.
-4. Verifies the existence of the volunteer group.
-5. Ensures that the current user is the leader of the volunteer group.
-6. Creates a new event volunteer record.
-7. Adds the newly created volunteer to the group's list of volunteers.
+1. Validates the existence of the current user.
+2. Checks if the specified user and event exist.
+3. Verifies that the current user is an admin of the event.
+4. Creates a new volunteer entry for the event.
+5. Creates a volunteer membership record for the new volunteer.
+6. Returns the created event volunteer record.
 
 ## Param
 
@@ -41,4 +40,4 @@ The created event volunteer record.
 
 ## Defined in
 
-[src/resolvers/Mutation/createEventVolunteer.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/createEventVolunteer.ts#L39)
+[src/resolvers/Mutation/createEventVolunteer.ts:35](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/createEventVolunteer.ts#L35)

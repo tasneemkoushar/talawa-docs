@@ -130,10 +130,6 @@
 
 \> `optional` **CreateCommentPayload**: [`CreateCommentPayloadResolvers`](CreateCommentPayloadResolvers.md)\<`ContextType`\>
 
-### CreateDirectChatError?
-
-\> `optional` **CreateDirectChatError**: [`CreateDirectChatErrorResolvers`](CreateDirectChatErrorResolvers.md)\<`ContextType`\>
-
 ### CreateMemberError?
 
 \> `optional` **CreateMemberError**: [`CreateMemberErrorResolvers`](CreateMemberErrorResolvers.md)\<`ContextType`\>
@@ -217,6 +213,10 @@
 ### Group?
 
 \> `optional` **Group**: [`GroupResolvers`](GroupResolvers.md)\<`ContextType`\>
+
+### HoursHistory?
+
+\> `optional` **HoursHistory**: [`HoursHistoryResolvers`](HoursHistoryResolvers.md)\<`ContextType`\>
 
 ### InvalidCursor?
 
@@ -442,6 +442,14 @@
 
 \> `optional` **Venue**: [`VenueResolvers`](VenueResolvers.md)\<`ContextType`\>
 
+### VolunteerMembership?
+
+\> `optional` **VolunteerMembership**: [`VolunteerMembershipResolvers`](VolunteerMembershipResolvers.md)\<`ContextType`\>
+
+### VolunteerRank?
+
+\> `optional` **VolunteerRank**: [`VolunteerRankResolvers`](VolunteerRankResolvers.md)\<`ContextType`\>
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4698](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4698)
+[src/types/generatedGraphQLTypes.ts:4954](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4954)

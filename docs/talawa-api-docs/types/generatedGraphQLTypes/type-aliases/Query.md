@@ -26,6 +26,10 @@
 
 \> `optional` **actionItemsByOrganization**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ActionItem`](ActionItem.md)\>[]\>
 
+### actionItemsByUser?
+
+\> `optional` **actionItemsByUser**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ActionItem`](ActionItem.md)\>[]\>
+
 ### adminPlugin?
 
 \> `optional` **adminPlugin**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Plugin`](Plugin.md)\>[]\>
@@ -73,10 +77,6 @@
 ### event?
 
 \> `optional` **event**: [`Maybe`](Maybe.md)\<[`Event`](Event.md)\>
-
-### eventVolunteersByEvent?
-
-\> `optional` **eventVolunteersByEvent**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`EventVolunteer`](EventVolunteer.md)\>[]\>
 
 ### eventsByOrganization?
 
@@ -138,6 +138,10 @@
 
 \> **getEventVolunteerGroups**: [`Maybe`](Maybe.md)\<[`EventVolunteerGroup`](EventVolunteerGroup.md)\>[]
 
+### getEventVolunteers
+
+\> **getEventVolunteers**: [`Maybe`](Maybe.md)\<[`EventVolunteer`](EventVolunteer.md)\>[]
+
 ### getFundById
 
 \> **getFundById**: [`Fund`](Fund.md)
@@ -166,13 +170,17 @@
 
 \> `optional` **getUserTag**: [`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>
 
-### getUserTagAncestors?
-
-\> `optional` **getUserTagAncestors**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>[]\>
-
 ### getVenueByOrgId?
 
 \> `optional` **getVenueByOrgId**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Venue`](Venue.md)\>[]\>
+
+### getVolunteerMembership
+
+\> **getVolunteerMembership**: [`Maybe`](Maybe.md)\<[`VolunteerMembership`](VolunteerMembership.md)\>[]
+
+### getVolunteerRanks
+
+\> **getVolunteerRanks**: [`Maybe`](Maybe.md)\<[`VolunteerRank`](VolunteerRank.md)\>[]
 
 ### getlanguage?
 
@@ -248,4 +256,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2199](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2199)
+[src/types/generatedGraphQLTypes.ts:2270](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2270)

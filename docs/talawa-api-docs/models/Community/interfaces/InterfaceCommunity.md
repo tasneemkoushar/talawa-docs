@@ -16,7 +16,7 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L8)
+[src/models/Community.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L8)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L10)
+[src/models/Community.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L10)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L9)
+[src/models/Community.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L9)
 
 ***
 
@@ -78,7 +78,7 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L12)
+[src/models/Community.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L12)
 
 ***
 
@@ -88,7 +88,7 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L22)
+[src/models/Community.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L22)
 
 ***
 
@@ -98,4 +98,4 @@ Interface representing a document for a community in MongoDB.
 
 #### Defined in
 
-[src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Community.ts#L11)
+[src/models/Community.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Community.ts#L11)

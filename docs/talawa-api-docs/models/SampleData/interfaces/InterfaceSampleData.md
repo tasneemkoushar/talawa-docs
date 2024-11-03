@@ -135,7 +135,7 @@ node\_modules/mongoose/types/document.d.ts:105
 
 #### Defined in
 
-[src/models/SampleData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/SampleData.ts#L10)
+[src/models/SampleData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/SampleData.ts#L10)
 
 ***
 
@@ -161,7 +161,7 @@ node\_modules/mongoose/types/document.d.ts:108
 
 #### Defined in
 
-[src/models/SampleData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/SampleData.ts#L9)
+[src/models/SampleData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/SampleData.ts#L9)
 
 ***
 

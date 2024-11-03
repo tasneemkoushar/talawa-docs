@@ -10,13 +10,17 @@
 
 ## Type declaration
 
-### allotedHours?
+### allottedHours?
 
-\> `optional` **allotedHours**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Float"`\]\[`"input"`\]\>
+\> `optional` **allottedHours**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Float"`\]\[`"input"`\]\>
 
 ### assigneeId?
 
 \> `optional` **assigneeId**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]\>
+
+### assigneeType?
+
+\> `optional` **assigneeType**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
 
 ### completionDate?
 
@@ -40,4 +44,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2689](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2689)
+[src/types/generatedGraphQLTypes.ts:2784](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2784)

@@ -40,4 +40,4 @@ context of the entire application, containing user information
 
 ## Defined in
 
-[src/resolvers/Mutation/updateSessionTimeout.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/updateSessionTimeout.ts#L28)
+[src/resolvers/Mutation/updateSessionTimeout.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/updateSessionTimeout.ts#L28)

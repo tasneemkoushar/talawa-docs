@@ -40,6 +40,10 @@
 
 \> `optional` **addOrganizationImage**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Organization"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddOrganizationImageArgs`](MutationAddOrganizationImageArgs.md), `"file"` \| `"organizationId"`\>\>
 
+### addPeopleToUserTag?
+
+\> `optional` **addPeopleToUserTag**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddPeopleToUserTagArgs`](MutationAddPeopleToUserTagArgs.md), `"input"`\>\>
+
 ### addPledgeToFundraisingCampaign?
 
 \> `optional` **addPledgeToFundraisingCampaign**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"FundraisingCampaignPledge"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddPledgeToFundraisingCampaignArgs`](MutationAddPledgeToFundraisingCampaignArgs.md), `"campaignId"` \| `"pledgeId"`\>\>
@@ -55,6 +59,10 @@
 ### addUserToUserFamily?
 
 \> `optional` **addUserToUserFamily**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserFamily"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAddUserToUserFamilyArgs`](MutationAddUserToUserFamilyArgs.md), `"familyId"` \| `"userId"`\>\>
+
+### assignToUserTags?
+
+\> `optional` **assignToUserTags**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationAssignToUserTagsArgs`](MutationAssignToUserTagsArgs.md), `"input"`\>\>
 
 ### assignUserTag?
 
@@ -180,6 +188,10 @@
 
 \> `optional` **createVenue**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Venue"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateVenueArgs`](MutationCreateVenueArgs.md), `"data"`\>\>
 
+### createVolunteerMembership?
+
+\> `optional` **createVolunteerMembership**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"VolunteerMembership"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationCreateVolunteerMembershipArgs`](MutationCreateVolunteerMembershipArgs.md), `"data"`\>\>
+
 ### deleteAdvertisement?
 
 \> `optional` **deleteAdvertisement**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DeleteAdvertisementPayload"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationDeleteAdvertisementArgs`](MutationDeleteAdvertisementArgs.md), `"id"`\>\>
@@ -299,6 +311,10 @@
 ### removeEventVolunteerGroup?
 
 \> `optional` **removeEventVolunteerGroup**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteerGroup"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveEventVolunteerGroupArgs`](MutationRemoveEventVolunteerGroupArgs.md), `"id"`\>\>
+
+### removeFromUserTags?
+
+\> `optional` **removeFromUserTags**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationRemoveFromUserTagsArgs`](MutationRemoveFromUserTagsArgs.md), `"input"`\>\>
 
 ### removeFundraisingCampaignPledge?
 
@@ -434,7 +450,7 @@
 
 ### updateEventVolunteerGroup?
 
-\> `optional` **updateEventVolunteerGroup**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteerGroup"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateEventVolunteerGroupArgs`](MutationUpdateEventVolunteerGroupArgs.md), `"id"`\>\>
+\> `optional` **updateEventVolunteerGroup**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteerGroup"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateEventVolunteerGroupArgs`](MutationUpdateEventVolunteerGroupArgs.md), `"data"` \| `"id"`\>\>
 
 ### updateFund?
 
@@ -488,6 +504,10 @@
 
 \> `optional` **updateUserTag**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateUserTagArgs`](MutationUpdateUserTagArgs.md), `"input"`\>\>
 
+### updateVolunteerMembership?
+
+\> `optional` **updateVolunteerMembership**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"VolunteerMembership"`\], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`MutationUpdateVolunteerMembershipArgs`](MutationUpdateVolunteerMembershipArgs.md), `"id"` \| `"status"`\>\>
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4178](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4178)
+[src/types/generatedGraphQLTypes.ts:4405](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4405)

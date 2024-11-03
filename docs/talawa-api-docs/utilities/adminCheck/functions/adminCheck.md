@@ -6,7 +6,7 @@
 
 # Function: adminCheck()
 
-\> **adminCheck**(`userId`, `organization`): `Promise`\<`void`\>
+\> **adminCheck**(`userId`, `organization`, `throwError`): `Promise`\<`boolean`\>
 
 Checks if the current user is an admin of the organization.
 If the user is an admin, the function completes successfully. Otherwise, it throws an UnauthorizedError.
@@ -21,9 +21,13 @@ The ID of the current user. It can be a string or a Types.ObjectId.
 
 The organization data of `InterfaceOrganization` type.
 
+• **throwError**: `boolean` = `true`
+
+A boolean value to determine if the function should throw an error. Default is `true`.
+
 ## Returns
 
-`Promise`\<`void`\>
+`Promise`\<`boolean`\>
 
 `True` or `False`.
 
@@ -33,4 +37,4 @@ This is a utility method.
 
 ## Defined in
 
-[src/utilities/adminCheck.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/utilities/adminCheck.ts#L17)
+[src/utilities/adminCheck.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/utilities/adminCheck.ts#L18)

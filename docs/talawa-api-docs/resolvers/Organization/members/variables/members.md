@@ -27,4 +27,4 @@ A promise that resolves to an array of user documents found in the database. The
 
 ## Defined in
 
-[src/resolvers/Organization/members.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Organization/members.ts#L16)
+[src/resolvers/Organization/members.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Organization/members.ts#L16)

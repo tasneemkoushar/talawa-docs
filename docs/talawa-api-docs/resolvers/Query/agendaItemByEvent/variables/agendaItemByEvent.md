@@ -22,4 +22,4 @@ A `Item` object that holds all Item for the Organization.
 
 ## Defined in
 
-[src/resolvers/Query/agendaItemByEvent.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Query/agendaItemByEvent.ts#L10)
+[src/resolvers/Query/agendaItemByEvent.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Query/agendaItemByEvent.ts#L10)

@@ -29,12 +29,12 @@ A promise that resolves to a connection object containing the child tags of the 
  - OrganizationTagUser - The OrganizationTagUser model used to interact with the organization tag users collection in the database.
  - parseGraphQLConnectionArguments - The function used to parse the GraphQL connection arguments (filter, sort, pagination).
  - transformToDefaultGraphQLConnection - The function used to transform the list of child tags into a connection object.
- - getCommonGraphQLConnectionFilter - The function used to get the common filter object for the GraphQL connection.
- - getCommonGraphQLConnectionSort - The function used to get the common sort object for the GraphQL connection.
+ - getGraphQLConnectionFilter - The function used to get the common filter object for the GraphQL connection.
+ - getGraphQLConnectionSort - The function used to get the common sort object for the GraphQL connection.
  - MAXIMUM_FETCH_LIMIT - The maximum number of child tags that can be fetched in a single request.
  - GraphQLError - The error class used to throw GraphQL errors.
  - UserTagResolvers - The type definition for the resolvers of the UserTag fields.
 
 ## Defined in
 
-[src/resolvers/UserTag/childTags.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/UserTag/childTags.ts#L36)
+[src/resolvers/UserTag/childTags.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/UserTag/childTags.ts#L40)

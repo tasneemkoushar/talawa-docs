@@ -24,6 +24,10 @@
 
 \> `optional` **\_id**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ID"`\], `ParentType`, `ContextType`\>
 
+### ancestorTags?
+
+\> `optional` **ancestorTags**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>[]\>, `ParentType`, `ContextType`\>
+
 ### childTags?
 
 \> `optional` **childTags**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTagsConnection"`\]\>, `ParentType`, `ContextType`, `Partial`\<[`UserTagChildTagsArgs`](UserTagChildTagsArgs.md)\>\>
@@ -44,6 +48,10 @@
 
 \> `optional` **usersAssignedTo**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UsersConnection"`\]\>, `ParentType`, `ContextType`, `Partial`\<[`UserTagUsersAssignedToArgs`](UserTagUsersAssignedToArgs.md)\>\>
 
+### usersToAssignTo?
+
+\> `optional` **usersToAssignTo**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UsersConnection"`\]\>, `ParentType`, `ContextType`, `Partial`\<[`UserTagUsersToAssignToArgs`](UserTagUsersToAssignToArgs.md)\>\>
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4652](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4652)
+[src/types/generatedGraphQLTypes.ts:4886](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4886)

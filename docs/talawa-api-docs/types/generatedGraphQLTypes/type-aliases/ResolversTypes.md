@@ -32,6 +32,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **ActionItemsOrderByInput**: [`ActionItemsOrderByInput`](ActionItemsOrderByInput.md)
 
+### AddPeopleToUserTagInput
+
+\> **AddPeopleToUserTagInput**: [`AddPeopleToUserTagInput`](AddPeopleToUserTagInput.md)
+
 ### Address
 
 \> **Address**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Address`](Address.md)\>
@@ -188,10 +192,6 @@ Mapping between all available schema types and the resolvers types
 
 \> **CreateCommentPayload**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Omit`](Omit.md)\<[`CreateCommentPayload`](CreateCommentPayload.md), `"comment"` \| `"userErrors"`\> & `object`\>
 
-### CreateDirectChatError
-
-\> **CreateDirectChatError**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`ResolversUnionTypes`](ResolversUnionTypes.md)\<[`ResolversTypes`](ResolversTypes.md)\>\[`"CreateDirectChatError"`\]\>
-
 ### CreateMemberError
 
 \> **CreateMemberError**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`ResolversUnionTypes`](ResolversUnionTypes.md)\<[`ResolversTypes`](ResolversTypes.md)\>\[`"CreateMemberError"`\]\>
@@ -292,6 +292,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **EventVolunteerGroupInput**: [`EventVolunteerGroupInput`](EventVolunteerGroupInput.md)
 
+### EventVolunteerGroupOrderByInput
+
+\> **EventVolunteerGroupOrderByInput**: [`EventVolunteerGroupOrderByInput`](EventVolunteerGroupOrderByInput.md)
+
 ### EventVolunteerGroupWhereInput
 
 \> **EventVolunteerGroupWhereInput**: [`EventVolunteerGroupWhereInput`](EventVolunteerGroupWhereInput.md)
@@ -303,6 +307,14 @@ Mapping between all available schema types and the resolvers types
 ### EventVolunteerResponse
 
 \> **EventVolunteerResponse**: [`EventVolunteerResponse`](EventVolunteerResponse.md)
+
+### EventVolunteerWhereInput
+
+\> **EventVolunteerWhereInput**: [`EventVolunteerWhereInput`](EventVolunteerWhereInput.md)
+
+### EventVolunteersOrderByInput
+
+\> **EventVolunteersOrderByInput**: [`EventVolunteersOrderByInput`](EventVolunteersOrderByInput.md)
 
 ### EventWhereInput
 
@@ -376,6 +388,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **Group**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)\>
 
+### HoursHistory
+
+\> **HoursHistory**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`HoursHistory`](HoursHistory.md)\>
+
 ### ID
 
 \> **ID**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"output"`\]\>
@@ -447,10 +463,6 @@ Mapping between all available schema types and the resolvers types
 ### Message
 
 \> **Message**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceMessage`](../../../models/Message/interfaces/InterfaceMessage.md)\>
-
-### MessageChatInput
-
-\> **MessageChatInput**: [`MessageChatInput`](MessageChatInput.md)
 
 ### MinimumLengthError
 
@@ -628,6 +640,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **Subscription**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<`object`\>
 
+### TagActionsInput
+
+\> **TagActionsInput**: [`TagActionsInput`](TagActionsInput.md)
+
 ### Time
 
 \> **Time**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Scalars`](Scalars.md)\[`"Time"`\]\[`"output"`\]\>
@@ -764,6 +780,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **UserInput**: [`UserInput`](UserInput.md)
 
+### UserNameWhereInput
+
+\> **UserNameWhereInput**: [`UserNameWhereInput`](UserNameWhereInput.md)
+
 ### UserNotAuthorizedAdminError
 
 \> **UserNotAuthorizedAdminError**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`UserNotAuthorizedAdminError`](UserNotAuthorizedAdminError.md)\>
@@ -791,6 +811,30 @@ Mapping between all available schema types and the resolvers types
 ### UserTag
 
 \> **UserTag**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceOrganizationTagUser`](../../../models/OrganizationTagUser/interfaces/InterfaceOrganizationTagUser.md)\>
+
+### UserTagNameWhereInput
+
+\> **UserTagNameWhereInput**: [`UserTagNameWhereInput`](UserTagNameWhereInput.md)
+
+### UserTagSortedByInput
+
+\> **UserTagSortedByInput**: [`UserTagSortedByInput`](UserTagSortedByInput.md)
+
+### UserTagUsersAssignedToSortedByInput
+
+\> **UserTagUsersAssignedToSortedByInput**: [`UserTagUsersAssignedToSortedByInput`](UserTagUsersAssignedToSortedByInput.md)
+
+### UserTagUsersAssignedToWhereInput
+
+\> **UserTagUsersAssignedToWhereInput**: [`UserTagUsersAssignedToWhereInput`](UserTagUsersAssignedToWhereInput.md)
+
+### UserTagUsersToAssignToWhereInput
+
+\> **UserTagUsersToAssignToWhereInput**: [`UserTagUsersToAssignToWhereInput`](UserTagUsersToAssignToWhereInput.md)
+
+### UserTagWhereInput
+
+\> **UserTagWhereInput**: [`UserTagWhereInput`](UserTagWhereInput.md)
 
 ### UserTagsConnection
 
@@ -832,6 +876,30 @@ Mapping between all available schema types and the resolvers types
 
 \> **VenueWhereInput**: [`VenueWhereInput`](VenueWhereInput.md)
 
+### VolunteerMembership
+
+\> **VolunteerMembership**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceVolunteerMembership`](../../../models/VolunteerMembership/interfaces/InterfaceVolunteerMembership.md)\>
+
+### VolunteerMembershipInput
+
+\> **VolunteerMembershipInput**: [`VolunteerMembershipInput`](VolunteerMembershipInput.md)
+
+### VolunteerMembershipOrderByInput
+
+\> **VolunteerMembershipOrderByInput**: [`VolunteerMembershipOrderByInput`](VolunteerMembershipOrderByInput.md)
+
+### VolunteerMembershipWhereInput
+
+\> **VolunteerMembershipWhereInput**: [`VolunteerMembershipWhereInput`](VolunteerMembershipWhereInput.md)
+
+### VolunteerRank
+
+\> **VolunteerRank**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Omit`](Omit.md)\<[`VolunteerRank`](VolunteerRank.md), `"user"`\> & `object`\>
+
+### VolunteerRankWhereInput
+
+\> **VolunteerRankWhereInput**: [`VolunteerRankWhereInput`](VolunteerRankWhereInput.md)
+
 ### WeekDays
 
 \> **WeekDays**: [`WeekDays`](WeekDays.md)
@@ -840,14 +908,10 @@ Mapping between all available schema types and the resolvers types
 
 \> **chatInput**: [`ChatInput`](ChatInput.md)
 
-### createGroupChatInput
-
-\> **createGroupChatInput**: [`CreateGroupChatInput`](CreateGroupChatInput.md)
-
 ### createUserFamilyInput
 
 \> **createUserFamilyInput**: [`CreateUserFamilyInput`](CreateUserFamilyInput.md)
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3205](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L3205)
+[src/types/generatedGraphQLTypes.ts:3392](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3392)

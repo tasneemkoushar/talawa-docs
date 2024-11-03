@@ -18,6 +18,10 @@
 
 \> **\_id**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"output"`\]
 
+### assignments?
+
+\> `optional` **assignments**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ActionItem`](ActionItem.md)\>[]\>
+
 ### createdAt
 
 \> **createdAt**: [`Scalars`](Scalars.md)\[`"DateTime"`\]\[`"output"`\]
@@ -25,6 +29,10 @@
 ### creator?
 
 \> `optional` **creator**: [`Maybe`](Maybe.md)\<[`User`](User.md)\>
+
+### description?
+
+\> `optional` **description**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]\>
 
 ### event?
 
@@ -52,4 +60,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:830](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L830)
+[src/types/generatedGraphQLTypes.ts:842](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L842)

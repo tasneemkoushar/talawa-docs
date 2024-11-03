@@ -26,6 +26,14 @@
 
 \> `optional` **last**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"PositiveInt"`\]\[`"input"`\]\>
 
+### sortedBy?
+
+\> `optional` **sortedBy**: [`InputMaybe`](InputMaybe.md)\<[`UserTagSortedByInput`](UserTagSortedByInput.md)\>
+
+### where?
+
+\> `optional` **where**: [`InputMaybe`](InputMaybe.md)\<[`UserTagWhereInput`](UserTagWhereInput.md)\>
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2989](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2989)
+[src/types/generatedGraphQLTypes.ts:3096](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3096)

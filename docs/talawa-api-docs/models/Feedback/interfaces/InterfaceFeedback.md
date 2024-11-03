@@ -17,7 +17,7 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L11)
+[src/models/Feedback.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L11)
 
 ***
 
@@ -27,7 +27,7 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L15)
+[src/models/Feedback.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L15)
 
 ***
 
@@ -37,7 +37,7 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L12)
+[src/models/Feedback.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L12)
 
 ***
 
@@ -47,7 +47,7 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L13)
+[src/models/Feedback.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L13)
 
 ***
 
@@ -57,7 +57,7 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L14)
+[src/models/Feedback.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L14)
 
 ***
 
@@ -67,4 +67,4 @@ This interface defines the structure and types of data that a feedback document 
 
 #### Defined in
 
-[src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/Feedback.ts#L16)
+[src/models/Feedback.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Feedback.ts#L16)

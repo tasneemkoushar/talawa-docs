@@ -10,9 +10,13 @@
 
 ## Type declaration
 
-### eventId?
+### description?
 
-\> `optional` **eventId**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]\>
+\> `optional` **description**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"input"`\]\>
+
+### eventId
+
+\> **eventId**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]
 
 ### name?
 
@@ -24,4 +28,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2761](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2761)
+[src/types/generatedGraphQLTypes.ts:2857](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2857)

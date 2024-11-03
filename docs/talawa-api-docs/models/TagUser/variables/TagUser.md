@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/models/TagUser.ts:51](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/models/TagUser.ts#L51)
+[src/models/TagUser.ts:56](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/TagUser.ts#L56)

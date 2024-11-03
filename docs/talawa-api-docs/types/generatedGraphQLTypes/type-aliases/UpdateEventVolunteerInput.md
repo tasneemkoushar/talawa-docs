@@ -10,22 +10,18 @@
 
 ## Type declaration
 
-### eventId?
+### assignments?
 
-\> `optional` **eventId**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]\>
+\> `optional` **assignments**: [`InputMaybe`](InputMaybe.md)\<[`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"ID"`\]\[`"input"`\]\>[]\>
 
-### isAssigned?
+### hasAccepted?
 
-\> `optional` **isAssigned**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"input"`\]\>
+\> `optional` **hasAccepted**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"input"`\]\>
 
-### isInvited?
+### isPublic?
 
-\> `optional` **isInvited**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"input"`\]\>
-
-### response?
-
-\> `optional` **response**: [`InputMaybe`](InputMaybe.md)\<[`EventVolunteerResponse`](EventVolunteerResponse.md)\>
+\> `optional` **isPublic**: [`InputMaybe`](InputMaybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"input"`\]\>
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2767](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2767)
+[src/types/generatedGraphQLTypes.ts:2864](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2864)

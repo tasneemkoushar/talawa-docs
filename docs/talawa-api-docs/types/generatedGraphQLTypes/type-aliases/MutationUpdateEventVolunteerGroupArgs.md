@@ -10,9 +10,9 @@
 
 ## Type declaration
 
-### data?
+### data
 
-\> `optional` **data**: [`InputMaybe`](InputMaybe.md)\<[`UpdateEventVolunteerGroupInput`](UpdateEventVolunteerGroupInput.md)\>
+\> **data**: [`UpdateEventVolunteerGroupInput`](UpdateEventVolunteerGroupInput.md)
 
 ### id
 
@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1793](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L1793)
+[src/types/generatedGraphQLTypes.ts:1856](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L1856)

@@ -350,12 +350,6 @@ Re-exports [InterfaceMessage](Message/interfaces/InterfaceMessage.md)
 
 ***
 
-### InterfaceMessageChat
-
-Re-exports [InterfaceMessageChat](MessageChat/interfaces/InterfaceMessageChat.md)
-
-***
-
 ### InterfaceNote
 
 Re-exports [InterfaceNote](Note/interfaces/InterfaceNote.md)
@@ -428,6 +422,12 @@ Re-exports [InterfaceVenue](Venue/interfaces/InterfaceVenue.md)
 
 ***
 
+### InterfaceVolunteerMembership
+
+Re-exports [InterfaceVolunteerMembership](VolunteerMembership/interfaces/InterfaceVolunteerMembership.md)
+
+***
+
 ### ItemType
 
 Re-exports [ItemType](AgendaItem/enumerations/ItemType.md)
@@ -449,12 +449,6 @@ Re-exports [MembershipRequest](MembershipRequest/variables/MembershipRequest.md)
 ### Message
 
 Re-exports [Message](Message/variables/Message.md)
-
-***
-
-### MessageChat
-
-Re-exports [MessageChat](MessageChat/variables/MessageChat.md)
 
 ***
 
@@ -533,6 +527,12 @@ Re-exports [User](User/variables/User.md)
 ### Venue
 
 Re-exports [Venue](Venue/variables/Venue.md)
+
+***
+
+### VolunteerMembership
+
+Re-exports [VolunteerMembership](VolunteerMembership/variables/VolunteerMembership.md)
 
 ***
 

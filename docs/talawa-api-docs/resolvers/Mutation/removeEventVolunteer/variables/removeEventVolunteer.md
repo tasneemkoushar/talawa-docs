@@ -25,9 +25,10 @@ context of entire application
 ## Remarks
 
 The following checks are done:
-1. If the current user exists
-2. If the Event volunteer to be removed exists.
-3. If the current user is leader of the corresponding event volunteer group.
+1. If the user exists.
+2. If the Event Volunteer exists.
+3. Remove the Event Volunteer from their groups and delete the volunteer.
+4. Delete the volunteer and their memberships in a single operation.
 
 ## Returns
 
@@ -35,4 +36,4 @@ Event Volunteer.
 
 ## Defined in
 
-[src/resolvers/Mutation/removeEventVolunteer.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/removeEventVolunteer.ts#L25)
+[src/resolvers/Mutation/removeEventVolunteer.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/removeEventVolunteer.ts#L25)

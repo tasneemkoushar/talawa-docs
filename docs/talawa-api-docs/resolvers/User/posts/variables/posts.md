@@ -29,4 +29,4 @@ GraphQLError Throws an error if the provided arguments are invalid.
 
 ## Defined in
 
-[src/resolvers/User/posts.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/User/posts.ts#L30)
+[src/resolvers/User/posts.ts:30](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/User/posts.ts#L30)

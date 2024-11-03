@@ -16,7 +16,7 @@
 
 ### MESSAGE
 
-\> **MESSAGE**: `"A tag with the same name and the same parent tag already exists for this organization."` = `"A tag with the same name and the same parent tag already exists for this organization."`
+\> **MESSAGE**: `"A tag with the same name already exists at this level"` = `"A tag with the same name already exists at this level"`
 
 ### PARAM
 
@@ -24,4 +24,4 @@
 
 ## Defined in
 
-[src/constants.ts:473](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/constants.ts#L473)
+[src/constants.ts:473](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/constants.ts#L473)

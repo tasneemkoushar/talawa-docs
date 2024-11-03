@@ -28,6 +28,10 @@ Mapping between all available schema types and the resolvers parents
 
 \> **ActionItemWhereInput**: [`ActionItemWhereInput`](ActionItemWhereInput.md)
 
+### AddPeopleToUserTagInput
+
+\> **AddPeopleToUserTagInput**: [`AddPeopleToUserTagInput`](AddPeopleToUserTagInput.md)
+
 ### Address
 
 \> **Address**: [`Address`](Address.md)
@@ -234,10 +238,6 @@ Mapping between all available schema types and the resolvers parents
 
 \> **userErrors**: [`ResolversParentTypes`](ResolversParentTypes.md)\[`"CreateCommentError"`\][]
 
-### CreateDirectChatError
-
-\> **CreateDirectChatError**: [`ResolversUnionTypes`](ResolversUnionTypes.md)\<[`ResolversParentTypes`](ResolversParentTypes.md)\>\[`"CreateDirectChatError"`\]
-
 ### CreateMemberError
 
 \> **CreateMemberError**: [`ResolversUnionTypes`](ResolversUnionTypes.md)\<[`ResolversParentTypes`](ResolversParentTypes.md)\>\[`"CreateMemberError"`\]
@@ -346,6 +346,10 @@ Mapping between all available schema types and the resolvers parents
 
 \> **EventVolunteerInput**: [`EventVolunteerInput`](EventVolunteerInput.md)
 
+### EventVolunteerWhereInput
+
+\> **EventVolunteerWhereInput**: [`EventVolunteerWhereInput`](EventVolunteerWhereInput.md)
+
 ### EventWhereInput
 
 \> **EventWhereInput**: [`EventWhereInput`](EventWhereInput.md)
@@ -405,6 +409,10 @@ Mapping between all available schema types and the resolvers parents
 ### Group
 
 \> **Group**: [`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)
+
+### HoursHistory
+
+\> **HoursHistory**: [`HoursHistory`](HoursHistory.md)
 
 ### ID
 
@@ -469,10 +477,6 @@ Mapping between all available schema types and the resolvers parents
 ### Message
 
 \> **Message**: [`InterfaceMessage`](../../../models/Message/interfaces/InterfaceMessage.md)
-
-### MessageChatInput
-
-\> **MessageChatInput**: [`MessageChatInput`](MessageChatInput.md)
 
 ### MinimumLengthError
 
@@ -640,6 +644,10 @@ Mapping between all available schema types and the resolvers parents
 
 \> **Subscription**: `object`
 
+### TagActionsInput
+
+\> **TagActionsInput**: [`TagActionsInput`](TagActionsInput.md)
+
 ### Time
 
 \> **Time**: [`Scalars`](Scalars.md)\[`"Time"`\]\[`"output"`\]
@@ -794,6 +802,10 @@ Mapping between all available schema types and the resolvers parents
 
 \> **UserInput**: [`UserInput`](UserInput.md)
 
+### UserNameWhereInput
+
+\> **UserNameWhereInput**: [`UserNameWhereInput`](UserNameWhereInput.md)
+
 ### UserNotAuthorizedAdminError
 
 \> **UserNotAuthorizedAdminError**: [`UserNotAuthorizedAdminError`](UserNotAuthorizedAdminError.md)
@@ -817,6 +829,30 @@ Mapping between all available schema types and the resolvers parents
 ### UserTag
 
 \> **UserTag**: [`InterfaceOrganizationTagUser`](../../../models/OrganizationTagUser/interfaces/InterfaceOrganizationTagUser.md)
+
+### UserTagNameWhereInput
+
+\> **UserTagNameWhereInput**: [`UserTagNameWhereInput`](UserTagNameWhereInput.md)
+
+### UserTagSortedByInput
+
+\> **UserTagSortedByInput**: [`UserTagSortedByInput`](UserTagSortedByInput.md)
+
+### UserTagUsersAssignedToSortedByInput
+
+\> **UserTagUsersAssignedToSortedByInput**: [`UserTagUsersAssignedToSortedByInput`](UserTagUsersAssignedToSortedByInput.md)
+
+### UserTagUsersAssignedToWhereInput
+
+\> **UserTagUsersAssignedToWhereInput**: [`UserTagUsersAssignedToWhereInput`](UserTagUsersAssignedToWhereInput.md)
+
+### UserTagUsersToAssignToWhereInput
+
+\> **UserTagUsersToAssignToWhereInput**: [`UserTagUsersToAssignToWhereInput`](UserTagUsersToAssignToWhereInput.md)
+
+### UserTagWhereInput
+
+\> **UserTagWhereInput**: [`UserTagWhereInput`](UserTagWhereInput.md)
 
 ### UserTagsConnection
 
@@ -874,13 +910,35 @@ Mapping between all available schema types and the resolvers parents
 
 \> **VenueWhereInput**: [`VenueWhereInput`](VenueWhereInput.md)
 
+### VolunteerMembership
+
+\> **VolunteerMembership**: [`InterfaceVolunteerMembership`](../../../models/VolunteerMembership/interfaces/InterfaceVolunteerMembership.md)
+
+### VolunteerMembershipInput
+
+\> **VolunteerMembershipInput**: [`VolunteerMembershipInput`](VolunteerMembershipInput.md)
+
+### VolunteerMembershipWhereInput
+
+\> **VolunteerMembershipWhereInput**: [`VolunteerMembershipWhereInput`](VolunteerMembershipWhereInput.md)
+
+### VolunteerRank
+
+\> **VolunteerRank**: [`Omit`](Omit.md)\<[`VolunteerRank`](VolunteerRank.md), `"user"`\> & `object`
+
+#### Type declaration
+
+##### user
+
+\> **user**: [`ResolversParentTypes`](ResolversParentTypes.md)\[`"User"`\]
+
+### VolunteerRankWhereInput
+
+\> **VolunteerRankWhereInput**: [`VolunteerRankWhereInput`](VolunteerRankWhereInput.md)
+
 ### chatInput
 
 \> **chatInput**: [`ChatInput`](ChatInput.md)
-
-### createGroupChatInput
-
-\> **createGroupChatInput**: [`CreateGroupChatInput`](CreateGroupChatInput.md)
 
 ### createUserFamilyInput
 
@@ -888,4 +946,4 @@ Mapping between all available schema types and the resolvers parents
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3418](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L3418)
+[src/types/generatedGraphQLTypes.ts:3621](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3621)

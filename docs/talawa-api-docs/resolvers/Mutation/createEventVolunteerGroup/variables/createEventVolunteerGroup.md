@@ -16,7 +16,9 @@ This resolver performs the following actions:
 2. Checks if the specified event exists.
 3. Verifies that the current user is an admin of the event.
 4. Creates a new volunteer group for the event.
-5. Updates the event to include the newly created volunteer group.
+5. Fetches or creates new volunteers for the group.
+6. Creates volunteer group membership records for the new volunteers.
+7. Updates the event to include the new volunteer group.
 
 ## Param
 
@@ -26,9 +28,12 @@ The parent object, not used in this resolver.
 
 The input arguments for the mutation, including:
   - `data`: An object containing:
-    - `eventId`: The ID of the event to associate the volunteer group with.
-    - `name`: The name of the volunteer group.
-    - `volunteersRequired`: The number of volunteers required for the group.
+   - `eventId`: The ID of the event to associate the volunteer group with.
+   - `name`: The name of the volunteer group.
+   - `description`: A description of the volunteer group.
+   - `leaderId`: The ID of the user who will lead the volunteer group.
+   - `volunteerIds`: An array of user IDs for the volunteers in the group.
+   - `volunteersRequired`: The number of volunteers required for the group.
 
 ## Param
 
@@ -44,4 +49,4 @@ This function first checks the cache for the current user and then queries the d
 
 ## Defined in
 
-[src/resolvers/Mutation/createEventVolunteerGroup.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/createEventVolunteerGroup.ts#L36)
+[src/resolvers/Mutation/createEventVolunteerGroup.ts:44](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/createEventVolunteerGroup.ts#L44)

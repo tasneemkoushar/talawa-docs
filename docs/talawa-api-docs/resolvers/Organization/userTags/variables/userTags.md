@@ -37,4 +37,4 @@ A promise that resolves to a connection object containing the user tags of the o
 
 ## Defined in
 
-[src/resolvers/Organization/userTags.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Organization/userTags.ts#L36)
+[src/resolvers/Organization/userTags.ts:40](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Organization/userTags.ts#L40)

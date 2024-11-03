@@ -28,6 +28,10 @@
 
 \> `optional` **actionItemsByOrganization**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ActionItem"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryActionItemsByOrganizationArgs`](QueryActionItemsByOrganizationArgs.md), `"organizationId"`\>\>
 
+### actionItemsByUser?
+
+\> `optional` **actionItemsByUser**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"ActionItem"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryActionItemsByUserArgs`](QueryActionItemsByUserArgs.md), `"userId"`\>\>
+
 ### adminPlugin?
 
 \> `optional` **adminPlugin**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Plugin"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryAdminPluginArgs`](QueryAdminPluginArgs.md), `"orgId"`\>\>
@@ -75,10 +79,6 @@
 ### event?
 
 \> `optional` **event**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryEventArgs`](QueryEventArgs.md), `"id"`\>\>
-
-### eventVolunteersByEvent?
-
-\> `optional` **eventVolunteersByEvent**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteer"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryEventVolunteersByEventArgs`](QueryEventVolunteersByEventArgs.md), `"id"`\>\>
 
 ### eventsByOrganization?
 
@@ -138,7 +138,11 @@
 
 ### getEventVolunteerGroups?
 
-\> `optional` **getEventVolunteerGroups**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteerGroup"`\]\>[], `ParentType`, `ContextType`, `Partial`\<[`QueryGetEventVolunteerGroupsArgs`](QueryGetEventVolunteerGroupsArgs.md)\>\>
+\> `optional` **getEventVolunteerGroups**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteerGroup"`\]\>[], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetEventVolunteerGroupsArgs`](QueryGetEventVolunteerGroupsArgs.md), `"where"`\>\>
+
+### getEventVolunteers?
+
+\> `optional` **getEventVolunteers**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"EventVolunteer"`\]\>[], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetEventVolunteersArgs`](QueryGetEventVolunteersArgs.md), `"where"`\>\>
 
 ### getFundById?
 
@@ -168,13 +172,17 @@
 
 \> `optional` **getUserTag**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetUserTagArgs`](QueryGetUserTagArgs.md), `"id"`\>\>
 
-### getUserTagAncestors?
-
-\> `optional` **getUserTagAncestors**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"UserTag"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetUserTagAncestorsArgs`](QueryGetUserTagAncestorsArgs.md), `"id"`\>\>
-
 ### getVenueByOrgId?
 
 \> `optional` **getVenueByOrgId**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Venue"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetVenueByOrgIdArgs`](QueryGetVenueByOrgIdArgs.md), `"orgId"`\>\>
+
+### getVolunteerMembership?
+
+\> `optional` **getVolunteerMembership**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"VolunteerMembership"`\]\>[], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetVolunteerMembershipArgs`](QueryGetVolunteerMembershipArgs.md), `"where"`\>\>
+
+### getVolunteerRanks?
+
+\> `optional` **getVolunteerRanks**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"VolunteerRank"`\]\>[], `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetVolunteerRanksArgs`](QueryGetVolunteerRanksArgs.md), `"orgId"` \| `"where"`\>\>
 
 ### getlanguage?
 
@@ -250,4 +258,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4444](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L4444)
+[src/types/generatedGraphQLTypes.ts:4676](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4676)

@@ -20,6 +20,12 @@
 
 A field to get the mongodb object id identifier for this UserTag.
 
+### ancestorTags?
+
+\> `optional` **ancestorTags**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>[]\>
+
+A field to traverse the ancestor tags of this UserTag.
+
 ### childTags?
 
 \> `optional` **childTags**: [`Maybe`](Maybe.md)\<[`UserTagsConnection`](UserTagsConnection.md)\>
@@ -52,6 +58,13 @@ A field to traverse the parent UserTag of this UserTag.
 A connection field to traverse a list of User this UserTag is assigned
 to.
 
+### usersToAssignTo?
+
+\> `optional` **usersToAssignTo**: [`Maybe`](Maybe.md)\<[`UsersConnection`](UsersConnection.md)\>
+
+A connection field to traverse a list of Users this UserTag is not assigned
+to, to see and select among them and assign this tag.
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2966](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L2966)
+[src/types/generatedGraphQLTypes.ts:3066](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3066)

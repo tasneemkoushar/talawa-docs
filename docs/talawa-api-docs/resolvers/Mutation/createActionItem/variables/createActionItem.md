@@ -16,9 +16,8 @@ This function performs several checks:
 2. Ensures that the current user has an associated app user profile.
 3. Checks if the assignee exists.
 4. Validates if the action item category exists and is not disabled.
-5. Confirms that the assignee is a member of the organization associated with the action item category.
-6. If the action item is related to an event, checks if the event exists and whether the current user is an admin of that event.
-7. Verifies if the current user is an admin of the organization or a superadmin.
+5. If the action item is related to an event, checks if the event exists and whether the current user is an admin of that event.
+6. Verifies if the current user is an admin of the organization or a superadmin.
 
 ## Param
 
@@ -29,10 +28,11 @@ The parent object for the mutation (not used in this function).
 The arguments provided with the request, including:
   - `data`: An object containing:
     - `assigneeId`: The ID of the user to whom the action item is assigned.
+    - `assigneeType`: The type of the assignee (EventVolunteer or EventVolunteerGroup).
     - `preCompletionNotes`: Notes to be added before the action item is completed.
     - `dueDate`: The due date for the action item.
     - `eventId` (optional): The ID of the event associated with the action item.
-  - `actionItemCategoryId`: The ID of the action item category.
+    - `actionItemCategoryId`: The ID of the action item category.
 
 ## Param
 
@@ -44,4 +44,4 @@ A promise that resolves to the created action item object.
 
 ## Defined in
 
-[src/resolvers/Mutation/createActionItem.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/resolvers/Mutation/createActionItem.ts#L58)
+[src/resolvers/Mutation/createActionItem.ts:58](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/createActionItem.ts#L58)

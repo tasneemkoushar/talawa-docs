@@ -38,6 +38,10 @@
 
 \> **addOrganizationImage**: [`Organization`](Organization.md)
 
+### addPeopleToUserTag?
+
+\> `optional` **addPeopleToUserTag**: [`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>
+
 ### addPledgeToFundraisingCampaign
 
 \> **addPledgeToFundraisingCampaign**: [`FundraisingCampaignPledge`](FundraisingCampaignPledge.md)
@@ -53,6 +57,10 @@
 ### addUserToUserFamily
 
 \> **addUserToUserFamily**: [`UserFamily`](UserFamily.md)
+
+### assignToUserTags?
+
+\> `optional` **assignToUserTags**: [`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>
 
 ### assignUserTag?
 
@@ -178,6 +186,10 @@
 
 \> `optional` **createVenue**: [`Maybe`](Maybe.md)\<[`Venue`](Venue.md)\>
 
+### createVolunteerMembership
+
+\> **createVolunteerMembership**: [`VolunteerMembership`](VolunteerMembership.md)
+
 ### deleteAdvertisement?
 
 \> `optional` **deleteAdvertisement**: [`Maybe`](Maybe.md)\<[`DeleteAdvertisementPayload`](DeleteAdvertisementPayload.md)\>
@@ -297,6 +309,10 @@
 ### removeEventVolunteerGroup
 
 \> **removeEventVolunteerGroup**: [`EventVolunteerGroup`](EventVolunteerGroup.md)
+
+### removeFromUserTags?
+
+\> `optional` **removeFromUserTags**: [`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>
 
 ### removeFundraisingCampaignPledge
 
@@ -486,6 +502,10 @@
 
 \> `optional` **updateUserTag**: [`Maybe`](Maybe.md)\<[`UserTag`](UserTag.md)\>
 
+### updateVolunteerMembership
+
+\> **updateVolunteerMembership**: [`VolunteerMembership`](VolunteerMembership.md)
+
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:1139](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L1139)
+[src/types/generatedGraphQLTypes.ts:1177](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L1177)

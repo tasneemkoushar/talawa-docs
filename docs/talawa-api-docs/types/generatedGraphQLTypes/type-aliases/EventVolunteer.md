@@ -18,6 +18,10 @@
 
 \> **\_id**: [`Scalars`](Scalars.md)\[`"ID"`\]\[`"output"`\]
 
+### assignments?
+
+\> `optional` **assignments**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ActionItem`](ActionItem.md)\>[]\>
+
 ### createdAt
 
 \> **createdAt**: [`Scalars`](Scalars.md)\[`"DateTime"`\]\[`"output"`\]
@@ -30,21 +34,25 @@
 
 \> `optional` **event**: [`Maybe`](Maybe.md)\<[`Event`](Event.md)\>
 
-### group?
+### groups?
 
-\> `optional` **group**: [`Maybe`](Maybe.md)\<[`EventVolunteerGroup`](EventVolunteerGroup.md)\>
+\> `optional` **groups**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`EventVolunteerGroup`](EventVolunteerGroup.md)\>[]\>
 
-### isAssigned?
+### hasAccepted
 
-\> `optional` **isAssigned**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]\>
+\> **hasAccepted**: [`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]
 
-### isInvited?
+### hoursHistory?
 
-\> `optional` **isInvited**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]\>
+\> `optional` **hoursHistory**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`HoursHistory`](HoursHistory.md)\>[]\>
 
-### response?
+### hoursVolunteered
 
-\> `optional` **response**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"String"`\]\[`"output"`\]\>
+\> **hoursVolunteered**: [`Scalars`](Scalars.md)\[`"Float"`\]\[`"output"`\]
+
+### isPublic
+
+\> **isPublic**: [`Scalars`](Scalars.md)\[`"Boolean"`\]\[`"output"`\]
 
 ### updatedAt
 
@@ -56,4 +64,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:816](https://github.com/PalisadoesFoundation/talawa-api/blob/4a88fe62b20ebda9653c55ae8d39d6c6fac8831f/src/types/generatedGraphQLTypes.ts#L816)
+[src/types/generatedGraphQLTypes.ts:826](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L826)
