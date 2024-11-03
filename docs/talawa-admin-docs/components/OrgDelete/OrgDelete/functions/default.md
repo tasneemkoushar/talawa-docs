@@ -20,4 +20,4 @@ JSX.Element representing the organization deletion message
 
 ## Defined in
 
-[src/components/OrgDelete/OrgDelete.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/OrgDelete/OrgDelete.tsx#L11)
+[src/components/OrgDelete/OrgDelete.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/OrgDelete/OrgDelete.tsx#L11)

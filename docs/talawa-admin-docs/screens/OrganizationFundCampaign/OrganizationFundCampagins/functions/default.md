@@ -44,4 +44,4 @@ The rendered component including breadcrumbs, search and filter controls, data g
 
 ## Defined in
 
-[src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx#L77)
+[src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/OrganizationFundCampaign/OrganizationFundCampagins.tsx#L77)

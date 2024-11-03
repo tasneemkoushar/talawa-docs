@@ -32,4 +32,4 @@ A JSX element containing the main content container with the provided child elem
 
 ## Defined in
 
-[src/components/AddOn/support/components/MainContent/MainContent.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/AddOn/support/components/MainContent/MainContent.tsx#L25)
+[src/components/AddOn/support/components/MainContent/MainContent.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/AddOn/support/components/MainContent/MainContent.tsx#L25)

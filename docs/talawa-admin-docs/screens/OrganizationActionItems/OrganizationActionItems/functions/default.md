@@ -20,4 +20,4 @@ The rendered component.
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/OrganizationActionItems.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrganizationActionItems/OrganizationActionItems.tsx#L77)
+[src/screens/OrganizationActionItems/OrganizationActionItems.tsx:77](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/OrganizationActionItems/OrganizationActionItems.tsx#L77)

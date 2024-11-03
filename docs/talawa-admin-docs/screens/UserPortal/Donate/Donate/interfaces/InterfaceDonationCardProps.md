@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L26)
+[src/screens/UserPortal/Donate/Donate.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L26)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L24)
+[src/screens/UserPortal/Donate/Donate.tsx:24](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L24)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L25)
+[src/screens/UserPortal/Donate/Donate.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L25)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L28)
+[src/screens/UserPortal/Donate/Donate.tsx:28](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L28)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L29)
+[src/screens/UserPortal/Donate/Donate.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L29)
 
 ***
 
@@ -64,4 +64,4 @@
 
 #### Defined in
 
-[src/screens/UserPortal/Donate/Donate.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/UserPortal/Donate/Donate.tsx#L27)
+[src/screens/UserPortal/Donate/Donate.tsx:27](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/UserPortal/Donate/Donate.tsx#L27)

@@ -23,4 +23,4 @@ JSX.Element representing the organization screen
 
 ## Defined in
 
-[src/components/OrganizationScreen/OrganizationScreen.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/OrganizationScreen/OrganizationScreen.tsx#L25)
+[src/components/OrganizationScreen/OrganizationScreen.tsx:25](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/OrganizationScreen/OrganizationScreen.tsx#L25)

@@ -22,4 +22,4 @@ JSX element for the left navigation drawer with organization details.
 
 ## Defined in
 
-[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:33](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L33)
+[src/components/LeftDrawerOrg/LeftDrawerOrg.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/LeftDrawerOrg/LeftDrawerOrg.tsx#L34)

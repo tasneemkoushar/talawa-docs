@@ -22,4 +22,4 @@ The rendered component displaying the organization settings.
 
 ## Defined in
 
-[src/screens/OrgSettings/OrgSettings.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/OrgSettings/OrgSettings.tsx#L29)
+[src/screens/OrgSettings/OrgSettings.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/OrgSettings/OrgSettings.tsx#L29)

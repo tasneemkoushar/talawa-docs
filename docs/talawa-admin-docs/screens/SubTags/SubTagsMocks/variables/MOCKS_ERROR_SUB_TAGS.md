@@ -6,8 +6,8 @@
 
 # Variable: MOCKS\_ERROR\_SUB\_TAGS
 
-\> `const` **MOCKS\_ERROR\_SUB\_TAGS**: (`object` \| `object`)[]
+\> `const` **MOCKS\_ERROR\_SUB\_TAGS**: `object`[]
 
 ## Defined in
 
-[src/screens/SubTags/SubTagsMocks.ts:347](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/SubTags/SubTagsMocks.ts#L347)
+[src/screens/SubTags/SubTagsMocks.ts:489](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/SubTags/SubTagsMocks.ts#L489)

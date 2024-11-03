@@ -32,4 +32,4 @@ The `GeneralSettings` component.
 
 ## Defined in
 
-[src/components/OrgSettings/General/GeneralSettings.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/components/OrgSettings/General/GeneralSettings.tsx#L23)
+[src/components/OrgSettings/General/GeneralSettings.tsx:23](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/OrgSettings/General/GeneralSettings.tsx#L23)

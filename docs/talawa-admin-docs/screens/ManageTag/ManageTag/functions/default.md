@@ -8,10 +8,7 @@
 
 \> **default**(): `JSX.Element`
 
-Component that renders the Manage Tag screen when the app navigates to '/orgtags/:orgId/managetag/:tagId'.
-
-This component does not accept any props and is responsible for displaying
-the content associated with the corresponding route.
+Component that renders the Manage Tag screen when the app navigates to '/orgtags/:orgId/manageTag/:tagId'.
 
 ## Returns
 
@@ -19,4 +16,4 @@ the content associated with the corresponding route.
 
 ## Defined in
 
-[src/screens/ManageTag/ManageTag.tsx:34](https://github.com/PalisadoesFoundation/talawa-admin/blob/6393648179f5fe59037f42564a6a7bc1ca4e7f9d/src/screens/ManageTag/ManageTag.tsx#L34)
+[src/screens/ManageTag/ManageTag.tsx:47](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/screens/ManageTag/ManageTag.tsx#L47)
