@@ -20,7 +20,7 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/TagActions/TagActions.tsx#L38)
+[src/components/TagActions/TagActions.tsx:38](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/TagActions/TagActions.tsx#L38)
 
 ***
 
@@ -30,7 +30,7 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/TagActions/TagActions.tsx#L40)
+[src/components/TagActions/TagActions.tsx:40](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/TagActions/TagActions.tsx#L40)
 
 ***
 
@@ -40,7 +40,7 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/TagActions/TagActions.tsx#L37)
+[src/components/TagActions/TagActions.tsx:37](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/TagActions/TagActions.tsx#L37)
 
 ***
 
@@ -50,7 +50,7 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/TagActions/TagActions.tsx#L39)
+[src/components/TagActions/TagActions.tsx:39](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/TagActions/TagActions.tsx#L39)
 
 ***
 
@@ -60,4 +60,4 @@ Props for the `AssignToTags` component.
 
 #### Defined in
 
-[src/components/TagActions/TagActions.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/TagActions/TagActions.tsx#L41)
+[src/components/TagActions/TagActions.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/TagActions/TagActions.tsx#L41)

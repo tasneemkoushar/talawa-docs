@@ -29,4 +29,4 @@ This component allows creating, updating, enabling, and disabling action item ca
 
 ## Defined in
 
-[src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/c49a58cefb47697eb25ed53aa1ef6d685c772d3e/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L66)
+[src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx:66](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/OrgSettings/ActionItemCategories/OrgActionItemCategories.tsx#L66)
