@@ -32,4 +32,4 @@ Additionally, it queries the `AppUserProfile` to check if the `userId` is a supe
 
 ## Defined in
 
-[src/utilities/userFamilyAdminCheck.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/utilities/userFamilyAdminCheck.ts#L19)
+[src/utilities/userFamilyAdminCheck.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/utilities/userFamilyAdminCheck.ts#L19)

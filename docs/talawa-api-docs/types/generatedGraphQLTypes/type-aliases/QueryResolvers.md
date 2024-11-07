@@ -80,6 +80,10 @@
 
 \> `optional` **event**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryEventArgs`](QueryEventArgs.md), `"id"`\>\>
 
+### eventsAttendedByUser?
+
+\> `optional` **eventsAttendedByUser**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>[]\>, `ParentType`, `ContextType`, `Partial`\<[`QueryEventsAttendedByUserArgs`](QueryEventsAttendedByUserArgs.md)\>\>
+
 ### eventsByOrganization?
 
 \> `optional` **eventsByOrganization**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>[]\>, `ParentType`, `ContextType`, `Partial`\<[`QueryEventsByOrganizationArgs`](QueryEventsByOrganizationArgs.md)\>\>
@@ -167,6 +171,10 @@
 ### getPlugins?
 
 \> `optional` **getPlugins**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Plugin"`\]\>[]\>, `ParentType`, `ContextType`\>
+
+### getRecurringEvents?
+
+\> `optional` **getRecurringEvents**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"Event"`\]\>[]\>, `ParentType`, `ContextType`, [`RequireFields`](RequireFields.md)\<[`QueryGetRecurringEventsArgs`](QueryGetRecurringEventsArgs.md), `"baseRecurringEventId"`\>\>
 
 ### getUserTag?
 
@@ -258,4 +266,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4676](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4676)
+[src/types/generatedGraphQLTypes.ts:4764](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L4764)

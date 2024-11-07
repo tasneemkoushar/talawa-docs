@@ -25,4 +25,4 @@ arguments passed to `parseGraphQLConnectionArgumentsWithSortedBy` function.
 
 ## Defined in
 
-[src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts#L29)
+[src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts:29](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/utilities/graphQLConnection/parseGraphQLConnectionArgumentsWithSortedBy.ts#L29)

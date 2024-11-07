@@ -24,4 +24,4 @@ New access and refresh tokens.
 
 ## Defined in
 
-[src/resolvers/Mutation/refreshToken.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/refreshToken.ts#L25)
+[src/resolvers/Mutation/refreshToken.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Mutation/refreshToken.ts#L25)

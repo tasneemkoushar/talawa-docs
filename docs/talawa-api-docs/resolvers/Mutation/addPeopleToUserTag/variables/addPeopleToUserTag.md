@@ -37,4 +37,4 @@ Array of users to whom the tag was assigned.
 
 ## Defined in
 
-[src/resolvers/Mutation/addPeopleToUserTag.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/resolvers/Mutation/addPeopleToUserTag.ts#L36)
+[src/resolvers/Mutation/addPeopleToUserTag.ts:36](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Mutation/addPeopleToUserTag.ts#L36)

@@ -78,6 +78,10 @@
 
 \> `optional` **event**: [`Maybe`](Maybe.md)\<[`Event`](Event.md)\>
 
+### eventsAttendedByUser?
+
+\> `optional` **eventsAttendedByUser**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Event`](Event.md)\>[]\>
+
 ### eventsByOrganization?
 
 \> `optional` **eventsByOrganization**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Event`](Event.md)\>[]\>
@@ -165,6 +169,10 @@
 ### getPlugins?
 
 \> `optional` **getPlugins**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Plugin`](Plugin.md)\>[]\>
+
+### getRecurringEvents?
+
+\> `optional` **getRecurringEvents**: [`Maybe`](Maybe.md)\<[`Maybe`](Maybe.md)\<[`Event`](Event.md)\>[]\>
 
 ### getUserTag?
 
@@ -256,4 +264,4 @@
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2270](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2270)
+[src/types/generatedGraphQLTypes.ts:2305](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L2305)

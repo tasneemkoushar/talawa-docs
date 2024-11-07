@@ -6,8 +6,6 @@
 
 # Interface: InterfaceFile
 
-This is an interface representing a document for a file in the database(MongoDB).
-
 ## Properties
 
 ### \_id
@@ -16,17 +14,37 @@ This is an interface representing a document for a file in the database(MongoDB)
 
 #### Defined in
 
-[src/models/File.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L9)
+[src/models/File.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L8)
 
 ***
 
-### contentType
+### archived
 
-\> **contentType**: `undefined` \| `string`
+\> **archived**: `boolean`
 
 #### Defined in
 
-[src/models/File.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L14)
+[src/models/File.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L20)
+
+***
+
+### archivedAt?
+
+\> `optional` **archivedAt**: `Date`
+
+#### Defined in
+
+[src/models/File.ts:26](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L26)
+
+***
+
+### backupStatus
+
+\> **backupStatus**: `string`
+
+#### Defined in
+
+[src/models/File.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L22)
 
 ***
 
@@ -36,47 +54,95 @@ This is an interface representing a document for a file in the database(MongoDB)
 
 #### Defined in
 
-[src/models/File.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L16)
+[src/models/File.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L24)
 
 ***
 
-### name
+### encryption
 
-\> **name**: `string`
+\> **encryption**: `boolean`
 
 #### Defined in
 
-[src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L10)
+[src/models/File.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L19)
 
 ***
 
-### secret
+### fileName
 
-\> **secret**: `string`
+\> **fileName**: `string`
 
 #### Defined in
 
-[src/models/File.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L13)
+[src/models/File.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L9)
+
+***
+
+### hash
+
+\> **hash**: `object`
+
+#### algorithm
+
+\> **algorithm**: `string`
+
+#### value
+
+\> **value**: `string`
+
+#### Defined in
+
+[src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L12)
+
+***
+
+### metadata
+
+\> **metadata**: `Record`\<`string`, `any`\>
+
+#### Defined in
+
+[src/models/File.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L18)
+
+***
+
+### mimeType
+
+\> **mimeType**: `string`
+
+#### Defined in
+
+[src/models/File.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L10)
+
+***
+
+### referenceCount
+
+\> **referenceCount**: `number`
+
+#### Defined in
+
+[src/models/File.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L17)
 
 ***
 
 ### size
 
-\> **size**: `undefined` \| `number`
+\> **size**: `number`
 
 #### Defined in
 
-[src/models/File.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L12)
+[src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L11)
 
 ***
 
 ### status
 
-\> **status**: `string`
+\> **status**: `"ACTIVE"` \| `"BLOCKED"` \| `"DELETED"`
 
 #### Defined in
 
-[src/models/File.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L15)
+[src/models/File.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L23)
 
 ***
 
@@ -86,14 +152,24 @@ This is an interface representing a document for a file in the database(MongoDB)
 
 #### Defined in
 
-[src/models/File.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L17)
+[src/models/File.ts:25](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L25)
 
 ***
 
-### url
+### uri
 
-\> **url**: `undefined` \| `string`
+\> **uri**: `string`
 
 #### Defined in
 
-[src/models/File.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/File.ts#L11)
+[src/models/File.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L16)
+
+***
+
+### visibility
+
+\> **visibility**: `"PRIVATE"` \| `"PUBLIC"`
+
+#### Defined in
+
+[src/models/File.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/File.ts#L21)

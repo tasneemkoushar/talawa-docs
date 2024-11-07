@@ -30,4 +30,4 @@ Mapping of interface types
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3385](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3385)
+[src/types/generatedGraphQLTypes.ts:3435](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L3435)

@@ -370,6 +370,14 @@ Mapping between all available schema types and the resolvers parents
 
 \> **FieldError**: [`ResolversInterfaceTypes`](ResolversInterfaceTypes.md)\<[`ResolversParentTypes`](ResolversParentTypes.md)\>\[`"FieldError"`\]
 
+### File
+
+\> **File**: [`File`](File.md)
+
+### FileMetadata
+
+\> **FileMetadata**: [`FileMetadata`](FileMetadata.md)
+
 ### Float
 
 \> **Float**: [`Scalars`](Scalars.md)\[`"Float"`\]\[`"output"`\]
@@ -409,6 +417,10 @@ Mapping between all available schema types and the resolvers parents
 ### Group
 
 \> **Group**: [`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)
+
+### Hash
+
+\> **Hash**: [`Hash`](Hash.md)
 
 ### HoursHistory
 
@@ -946,4 +958,4 @@ Mapping between all available schema types and the resolvers parents
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3621](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3621)
+[src/types/generatedGraphQLTypes.ts:3675](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L3675)

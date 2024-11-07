@@ -34,9 +34,9 @@
 
 \> `optional` **creator**: [`Maybe`](Maybe.md)\<[`User`](User.md)\>
 
-### imageUrl?
+### file?
 
-\> `optional` **imageUrl**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"URL"`\]\[`"output"`\]\>
+\> `optional` **file**: [`Maybe`](Maybe.md)\<[`File`](File.md)\>
 
 ### likeCount?
 
@@ -66,10 +66,6 @@
 
 \> **updatedAt**: [`Scalars`](Scalars.md)\[`"DateTime"`\]\[`"output"`\]
 
-### videoUrl?
-
-\> `optional` **videoUrl**: [`Maybe`](Maybe.md)\<[`Scalars`](Scalars.md)\[`"URL"`\]\[`"output"`\]\>
-
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:2178](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L2178)
+[src/types/generatedGraphQLTypes.ts:2214](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L2214)

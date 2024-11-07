@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[src/constants.ts:828](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/constants.ts#L828)
+[src/constants.ts:858](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/constants.ts#L858)

@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/models/Venue.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L6)
+[src/models/Venue.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L6)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/models/Venue.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L9)
+[src/models/Venue.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L9)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[src/models/Venue.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L8)
+[src/models/Venue.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L8)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[src/models/Venue.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L10)
+[src/models/Venue.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L10)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[src/models/Venue.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L7)
+[src/models/Venue.ts:7](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L7)
 
 ***
 
@@ -64,4 +64,4 @@
 
 #### Defined in
 
-[src/models/Venue.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/Venue.ts#L11)
+[src/models/Venue.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/Venue.ts#L11)

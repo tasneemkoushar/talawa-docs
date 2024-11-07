@@ -40,9 +40,9 @@
 
 \> `optional` **creator**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"User"`\]\>, `ParentType`, `ContextType`\>
 
-### imageUrl?
+### file?
 
-\> `optional` **imageUrl**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"URL"`\]\>, `ParentType`, `ContextType`\>
+\> `optional` **file**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"File"`\]\>, `ParentType`, `ContextType`\>
 
 ### likeCount?
 
@@ -72,10 +72,6 @@
 
 \> `optional` **updatedAt**: [`Resolver`](Resolver.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"DateTime"`\], `ParentType`, `ContextType`\>
 
-### videoUrl?
-
-\> `optional` **videoUrl**: [`Resolver`](Resolver.md)\<[`Maybe`](Maybe.md)\<[`ResolversTypes`](ResolversTypes.md)\[`"URL"`\]\>, `ParentType`, `ContextType`\>
-
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:4640](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L4640)
+[src/types/generatedGraphQLTypes.ts:4729](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L4729)

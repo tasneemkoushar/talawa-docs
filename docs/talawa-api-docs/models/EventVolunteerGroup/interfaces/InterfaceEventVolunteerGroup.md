@@ -17,7 +17,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L14)
+[src/models/EventVolunteerGroup.ts:14](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L14)
 
 ***
 
@@ -27,7 +27,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L22)
+[src/models/EventVolunteerGroup.ts:22](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L22)
 
 ***
 
@@ -37,7 +37,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L23)
+[src/models/EventVolunteerGroup.ts:23](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L23)
 
 ***
 
@@ -47,7 +47,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L15)
+[src/models/EventVolunteerGroup.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L15)
 
 ***
 
@@ -57,7 +57,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L19)
+[src/models/EventVolunteerGroup.ts:19](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L19)
 
 ***
 
@@ -67,7 +67,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L16)
+[src/models/EventVolunteerGroup.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L16)
 
 ***
 
@@ -77,7 +77,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L17)
+[src/models/EventVolunteerGroup.ts:17](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L17)
 
 ***
 
@@ -87,7 +87,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L18)
+[src/models/EventVolunteerGroup.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L18)
 
 ***
 
@@ -97,7 +97,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L24)
+[src/models/EventVolunteerGroup.ts:24](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L24)
 
 ***
 
@@ -107,7 +107,7 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L20)
+[src/models/EventVolunteerGroup.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L20)
 
 ***
 
@@ -117,4 +117,4 @@ This interface defines the structure and types of data that an event volunteer g
 
 #### Defined in
 
-[src/models/EventVolunteerGroup.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/models/EventVolunteerGroup.ts#L21)
+[src/models/EventVolunteerGroup.ts:21](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/EventVolunteerGroup.ts#L21)

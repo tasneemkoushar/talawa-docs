@@ -336,6 +336,18 @@ Mapping between all available schema types and the resolvers types
 
 \> **FieldError**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`ResolversInterfaceTypes`](ResolversInterfaceTypes.md)\<[`ResolversTypes`](ResolversTypes.md)\>\[`"FieldError"`\]\>
 
+### File
+
+\> **File**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`File`](File.md)\>
+
+### FileMetadata
+
+\> **FileMetadata**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`FileMetadata`](FileMetadata.md)\>
+
+### FileVisibility
+
+\> **FileVisibility**: [`FileVisibility`](FileVisibility.md)
+
 ### Float
 
 \> **Float**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Scalars`](Scalars.md)\[`"Float"`\]\[`"output"`\]\>
@@ -387,6 +399,10 @@ Mapping between all available schema types and the resolvers types
 ### Group
 
 \> **Group**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`InterfaceGroup`](../../../models/Group/interfaces/InterfaceGroup.md)\>
+
+### Hash
+
+\> **Hash**: [`ResolverTypeWrapper`](ResolverTypeWrapper.md)\<[`Hash`](Hash.md)\>
 
 ### HoursHistory
 
@@ -914,4 +930,4 @@ Mapping between all available schema types and the resolvers types
 
 ## Defined in
 
-[src/types/generatedGraphQLTypes.ts:3392](https://github.com/PalisadoesFoundation/talawa-api/blob/f4877b986932181336f42a7336754de05976cd97/src/types/generatedGraphQLTypes.ts#L3392)
+[src/types/generatedGraphQLTypes.ts:3442](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/types/generatedGraphQLTypes.ts#L3442)
