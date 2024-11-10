@@ -20,7 +20,7 @@ Unassign UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/UnassignUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/screens/ManageTag/UnassignUserTagModal.tsx#L12)
+[src/screens/ManageTag/UnassignUserTagModal.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/ManageTag/UnassignUserTagModal.tsx#L12)
 
 ***
 
@@ -30,7 +30,7 @@ Unassign UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/UnassignUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/screens/ManageTag/UnassignUserTagModal.tsx#L13)
+[src/screens/ManageTag/UnassignUserTagModal.tsx:13](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/ManageTag/UnassignUserTagModal.tsx#L13)
 
 ***
 
@@ -40,7 +40,7 @@ Unassign UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/UnassignUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/screens/ManageTag/UnassignUserTagModal.tsx#L14)
+[src/screens/ManageTag/UnassignUserTagModal.tsx:14](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/ManageTag/UnassignUserTagModal.tsx#L14)
 
 ***
 
@@ -54,7 +54,7 @@ Unassign UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/UnassignUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/screens/ManageTag/UnassignUserTagModal.tsx#L11)
+[src/screens/ManageTag/UnassignUserTagModal.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/ManageTag/UnassignUserTagModal.tsx#L11)
 
 ***
 
@@ -64,4 +64,4 @@ Unassign UserTag Modal component for the Manage Tag screen.
 
 #### Defined in
 
-[src/screens/ManageTag/UnassignUserTagModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/screens/ManageTag/UnassignUserTagModal.tsx#L10)
+[src/screens/ManageTag/UnassignUserTagModal.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/ManageTag/UnassignUserTagModal.tsx#L10)

@@ -24,4 +24,4 @@ JSX element representing a card with the holiday name.
 
 ## Defined in
 
-[src/components/HolidayCards/HolidayCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/HolidayCards/HolidayCard.tsx#L15)
+[src/components/HolidayCards/HolidayCard.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/HolidayCards/HolidayCard.tsx#L15)

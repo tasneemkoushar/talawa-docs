@@ -27,4 +27,4 @@ JSX.Element representing the organization people list card modal
 
 ## Defined in
 
-[src/components/OrgPeopleListCard/OrgPeopleListCard.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/OrgPeopleListCard/OrgPeopleListCard.tsx#L30)
+[src/components/OrgPeopleListCard/OrgPeopleListCard.tsx:30](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/OrgPeopleListCard/OrgPeopleListCard.tsx#L30)

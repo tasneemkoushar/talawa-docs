@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L21)
+[src/components/Venues/VenueModal.tsx:21](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L21)
 
 ***
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L17)
+[src/components/Venues/VenueModal.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L17)
 
 ***
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L19)
+[src/components/Venues/VenueModal.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L19)
 
 ***
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L18)
+[src/components/Venues/VenueModal.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L18)
 
 ***
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L16)
+[src/components/Venues/VenueModal.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L16)
 
 ***
 
@@ -72,4 +72,4 @@
 
 #### Defined in
 
-[src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/3f6b41a67c6932f4c0bce6ffb822d4ef12ede8c8/src/components/Venues/VenueModal.tsx#L20)
+[src/components/Venues/VenueModal.tsx:20](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/Venues/VenueModal.tsx#L20)
