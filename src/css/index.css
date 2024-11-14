@@ -502,6 +502,7 @@
 .ActionButton.primary {
   color: var(--dark);
   background-color: #FEBC59;
+  text-wrap: nowrap;
 }
 
 .ActionButton.primary:hover {
@@ -525,6 +526,27 @@
 }
 
 @media only screen and (max-width: 480px) {
+  .ActionButton {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    white-space: nowrap;
+  }
+
+  .ActionButton.secondary {
+    margin-top: 1rem;
+    margin-left: auto;
+  }
+
+  .custom-image {
+    width: 80%;
+  }
+
+}
+
+/* responsiveness for tablets */
+
+@media only screen and (min-width: 481px) and (max-width: 960px) {
   .ActionButton {
     max-width: 100%;
     width: 100%;
