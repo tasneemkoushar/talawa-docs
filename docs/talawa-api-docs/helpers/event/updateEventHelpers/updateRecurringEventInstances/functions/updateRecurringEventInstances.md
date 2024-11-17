@@ -53,4 +53,4 @@ The following steps are followed:
 
 ## Defined in
 
-[src/helpers/event/updateEventHelpers/updateRecurringEventInstances.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/helpers/event/updateEventHelpers/updateRecurringEventInstances.ts#L45)
+[src/helpers/event/updateEventHelpers/updateRecurringEventInstances.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/helpers/event/updateEventHelpers/updateRecurringEventInstances.ts#L45)

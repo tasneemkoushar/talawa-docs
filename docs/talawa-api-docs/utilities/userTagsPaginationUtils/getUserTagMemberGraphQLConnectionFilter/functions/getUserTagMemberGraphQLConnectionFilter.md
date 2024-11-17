@@ -20,4 +20,4 @@ This function is used to get an object containing filtering logic.
 
 ## Defined in
 
-[src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts#L38)
+[src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts:38](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/utilities/userTagsPaginationUtils/getUserTagMemberGraphQLConnectionFilter.ts#L38)

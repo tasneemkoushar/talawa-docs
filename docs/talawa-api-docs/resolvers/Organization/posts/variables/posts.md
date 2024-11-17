@@ -41,4 +41,4 @@ A promise that resolves to a connection object containing the posts of the organ
 
 ## Defined in
 
-[src/resolvers/Organization/posts.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Organization/posts.ts#L39)
+[src/resolvers/Organization/posts.ts:39](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Organization/posts.ts#L39)

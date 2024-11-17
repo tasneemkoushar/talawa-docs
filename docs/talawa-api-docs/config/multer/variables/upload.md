@@ -28,4 +28,4 @@ app.post("/upload", uploadMiddleware, (req, res) =\> \{
 
 ## Defined in
 
-[src/config/multer/index.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/config/multer/index.ts#L63)
+[src/config/multer/index.ts:63](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/config/multer/index.ts#L63)

@@ -29,4 +29,4 @@ A list of funds associated with the specified organization, matching the filter 
 
 ## Defined in
 
-[src/resolvers/Query/fundsByOrganization.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Query/fundsByOrganization.ts#L20)
+[src/resolvers/Query/fundsByOrganization.ts:20](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Query/fundsByOrganization.ts#L20)

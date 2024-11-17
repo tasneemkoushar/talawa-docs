@@ -30,4 +30,4 @@ A paginated connection object containing the advertisements, their total count, 
 
 ## Defined in
 
-[src/resolvers/Query/advertisementsConnection.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Query/advertisementsConnection.ts#L28)
+[src/resolvers/Query/advertisementsConnection.ts:28](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Query/advertisementsConnection.ts#L28)

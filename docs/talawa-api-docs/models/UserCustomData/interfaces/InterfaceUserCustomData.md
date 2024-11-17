@@ -16,7 +16,7 @@ Interface representing a document for custom field in the database (MongoDB).
 
 #### Defined in
 
-[src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/UserCustomData.ts#L9)
+[src/models/UserCustomData.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/UserCustomData.ts#L9)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a document for custom field in the database (MongoDB).
 
 #### Defined in
 
-[src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/UserCustomData.ts#L10)
+[src/models/UserCustomData.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/UserCustomData.ts#L10)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a document for custom field in the database (MongoDB).
 
 #### Defined in
 
-[src/models/UserCustomData.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/UserCustomData.ts#L13)
+[src/models/UserCustomData.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/UserCustomData.ts#L13)
 
 ***
 
@@ -46,4 +46,4 @@ Interface representing a document for custom field in the database (MongoDB).
 
 #### Defined in
 
-[src/models/UserCustomData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/models/UserCustomData.ts#L12)
+[src/models/UserCustomData.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/UserCustomData.ts#L12)

@@ -29,4 +29,4 @@ A promise that resolves when the file is either deleted or its reference count i
 
 ## Defined in
 
-[src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)
+[src/utilities/encodedImageStorage/deletePreviousFile.ts:13](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/utilities/encodedImageStorage/deletePreviousFile.ts#L13)

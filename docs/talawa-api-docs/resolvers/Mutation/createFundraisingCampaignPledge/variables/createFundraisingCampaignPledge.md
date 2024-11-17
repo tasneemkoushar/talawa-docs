@@ -43,4 +43,4 @@ The created pledge record.
 
 ## Defined in
 
-[src/resolvers/Mutation/createFundraisingCampaignPledge.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/Mutation/createFundraisingCampaignPledge.ts#L42)
+[src/resolvers/Mutation/createFundraisingCampaignPledge.ts:42](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Mutation/createFundraisingCampaignPledge.ts#L42)

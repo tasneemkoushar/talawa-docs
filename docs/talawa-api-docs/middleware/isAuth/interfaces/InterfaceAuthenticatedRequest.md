@@ -491,7 +491,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:588
 
 #### Defined in
 
-[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/middleware/isAuth.ts#L83)
+[src/middleware/isAuth.ts:83](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/middleware/isAuth.ts#L83)
 
 ***
 
@@ -1055,7 +1055,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:601
 
 #### Defined in
 
-[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/middleware/isAuth.ts#L85)
+[src/middleware/isAuth.ts:85](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/middleware/isAuth.ts#L85)
 
 ***
 
@@ -1165,7 +1165,7 @@ node\_modules/@types/express-serve-static-core/index.d.ts:655
 
 #### Defined in
 
-[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/middleware/isAuth.ts#L84)
+[src/middleware/isAuth.ts:84](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/middleware/isAuth.ts#L84)
 
 ***
 

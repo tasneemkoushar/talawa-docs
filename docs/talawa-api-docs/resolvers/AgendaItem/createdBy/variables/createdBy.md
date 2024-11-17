@@ -24,4 +24,4 @@ A promise that resolves to the user object found in the database, or `null` if n
 
 ## Defined in
 
-[src/resolvers/AgendaItem/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/resolvers/AgendaItem/createdBy.ts#L16)
+[src/resolvers/AgendaItem/createdBy.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/AgendaItem/createdBy.ts#L16)

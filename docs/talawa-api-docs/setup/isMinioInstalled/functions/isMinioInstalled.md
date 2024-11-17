@@ -19,4 +19,4 @@ A boolean indicating whether MinIO is installed.
 
 ## Defined in
 
-[src/setup/isMinioInstalled.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/bba5d82264abb62b9e358a3d3fe1af18a8a8f6e4/src/setup/isMinioInstalled.ts#L15)
+[src/setup/isMinioInstalled.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/setup/isMinioInstalled.ts#L15)
