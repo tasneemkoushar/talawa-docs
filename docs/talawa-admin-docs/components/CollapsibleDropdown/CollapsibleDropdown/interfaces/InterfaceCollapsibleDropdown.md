@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L12)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:10](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L10)
 
 ***
 
@@ -34,4 +34,4 @@
 
 #### Defined in
 
-[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)
+[src/components/CollapsibleDropdown/CollapsibleDropdown.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/CollapsibleDropdown/CollapsibleDropdown.tsx#L11)

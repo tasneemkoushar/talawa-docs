@@ -16,6 +16,8 @@ It provides a tabbed interface for:
 - Handling event actions
 - Reviewing event agendas
 - Viewing event statistics
+- Managing event volunteers
+- Managing event attendance
 
 ## Returns
 
@@ -31,4 +33,4 @@ JSX.Element - The `EventManagement` component.
 
 ## Defined in
 
-[src/screens/EventManagement/EventManagement.tsx:82](https://github.com/PalisadoesFoundation/talawa-admin/blob/9dd5d7fd647f8a7c9e1c1e14bf645b71b32c51c2/src/screens/EventManagement/EventManagement.tsx#L82)
+[src/screens/EventManagement/EventManagement.tsx:90](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/EventManagement/EventManagement.tsx#L90)
