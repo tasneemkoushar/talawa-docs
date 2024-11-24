@@ -16,7 +16,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 #### Defined in
 
-[src/models/EncodedVideo.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/EncodedVideo.ts#L9)
+[src/models/EncodedVideo.ts:9](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/models/EncodedVideo.ts#L9)
 
 ***
 
@@ -26,7 +26,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 #### Defined in
 
-[src/models/EncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/EncodedVideo.ts#L11)
+[src/models/EncodedVideo.ts:11](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/models/EncodedVideo.ts#L11)
 
 ***
 
@@ -36,7 +36,7 @@ Interface representing a document for an encoded video in MongoDB.
 
 #### Defined in
 
-[src/models/EncodedVideo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/EncodedVideo.ts#L10)
+[src/models/EncodedVideo.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/models/EncodedVideo.ts#L10)
 
 ***
 
@@ -46,4 +46,4 @@ Interface representing a document for an encoded video in MongoDB.
 
 #### Defined in
 
-[src/models/EncodedVideo.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/models/EncodedVideo.ts#L12)
+[src/models/EncodedVideo.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/models/EncodedVideo.ts#L12)

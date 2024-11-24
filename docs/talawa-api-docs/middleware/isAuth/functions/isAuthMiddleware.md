@@ -46,4 +46,4 @@ app.use("/api/protected-route", isAuthMiddleware, (req, res) =\> \{
 
 ## Defined in
 
-[src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/middleware/isAuth.ts#L110)
+[src/middleware/isAuth.ts:110](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/middleware/isAuth.ts#L110)

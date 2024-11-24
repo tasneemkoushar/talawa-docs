@@ -26,4 +26,4 @@ This is a utility method and works only in development or test mode.
 
 ## Defined in
 
-[src/utilities/copyToClipboard.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/utilities/copyToClipboard.ts#L10)
+[src/utilities/copyToClipboard.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/utilities/copyToClipboard.ts#L10)

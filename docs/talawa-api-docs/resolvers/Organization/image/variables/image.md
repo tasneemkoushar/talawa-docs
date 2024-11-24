@@ -26,4 +26,4 @@ OrganizationResolvers - The type definition for the resolvers of the Organizatio
 
 ## Defined in
 
-[src/resolvers/Organization/image.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Organization/image.ts#L15)
+[src/resolvers/Organization/image.ts:15](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/resolvers/Organization/image.ts#L15)

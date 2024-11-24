@@ -27,4 +27,4 @@ A promise that resolves to the post documents found in the database. These docum
 
 ## Defined in
 
-[src/resolvers/Organization/pinnedPosts.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/resolvers/Organization/pinnedPosts.ts#L18)
+[src/resolvers/Organization/pinnedPosts.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/resolvers/Organization/pinnedPosts.ts#L18)

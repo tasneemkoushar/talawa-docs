@@ -33,4 +33,4 @@ This function is used during the initial setup process to test the MongoDB conne
 
 ## Defined in
 
-[src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/a6e7ac91b581c9109559657faf0f934f3eb41fe7/src/setup/MongoDB.ts#L45)
+[src/setup/MongoDB.ts:45](https://github.com/PalisadoesFoundation/talawa-api/blob/92443bb6a5ff3ed66457149a509401986a82e570/src/setup/MongoDB.ts#L45)
