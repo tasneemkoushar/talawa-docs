@@ -28,4 +28,4 @@ JSX.Element - The `ForgotPassword` component.
 
 ## Defined in
 
-[src/screens/ForgotPassword/ForgotPassword.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/ForgotPassword/ForgotPassword.tsx#L36)
+[src/screens/ForgotPassword/ForgotPassword.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/ForgotPassword/ForgotPassword.tsx#L36)

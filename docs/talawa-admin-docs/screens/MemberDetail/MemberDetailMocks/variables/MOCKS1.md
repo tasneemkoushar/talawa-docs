@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/screens/MemberDetail/MemberDetailMocks.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/MemberDetail/MemberDetailMocks.ts#L5)
+[src/screens/MemberDetail/MemberDetailMocks.ts:5](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/MemberDetail/MemberDetailMocks.ts#L5)

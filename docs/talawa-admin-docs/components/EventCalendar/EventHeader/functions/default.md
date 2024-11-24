@@ -23,4 +23,4 @@ JSX.Element - The rendered EventHeader component.
 
 ## Defined in
 
-[src/components/EventCalendar/EventHeader.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/EventCalendar/EventHeader.tsx#L26)
+[src/components/EventCalendar/EventHeader.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/EventCalendar/EventHeader.tsx#L26)

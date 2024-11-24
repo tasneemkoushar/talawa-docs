@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[src/components/MemberDetail/EventsAttendedCardItem.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/MemberDetail/EventsAttendedCardItem.tsx#L26)
+[src/components/MemberDetail/EventsAttendedCardItem.tsx:26](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/MemberDetail/EventsAttendedCardItem.tsx#L26)

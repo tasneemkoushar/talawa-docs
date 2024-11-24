@@ -30,4 +30,4 @@ A table row containing event details with a link to the event
 
 ## Defined in
 
-[src/components/EventManagement/EventAttendance/AttendedEventList.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/EventManagement/EventAttendance/AttendedEventList.tsx#L16)
+[src/components/EventManagement/EventAttendance/AttendedEventList.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/EventManagement/EventAttendance/AttendedEventList.tsx#L16)

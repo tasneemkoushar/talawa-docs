@@ -21,4 +21,4 @@ JSX.Element - Renders the `AddOn` component containing a welcome message.
 
 ## Defined in
 
-[src/components/plugins/DummyPlugin/DummyPlugin.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/plugins/DummyPlugin/DummyPlugin.tsx#L12)
+[src/components/plugins/DummyPlugin/DummyPlugin.tsx:12](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/plugins/DummyPlugin/DummyPlugin.tsx#L12)

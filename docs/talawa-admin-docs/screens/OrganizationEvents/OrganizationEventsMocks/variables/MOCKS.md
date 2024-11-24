@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[src/screens/OrganizationEvents/OrganizationEventsMocks.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/OrganizationEvents/OrganizationEventsMocks.ts#L4)
+[src/screens/OrganizationEvents/OrganizationEventsMocks.ts:4](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/OrganizationEvents/OrganizationEventsMocks.ts#L4)

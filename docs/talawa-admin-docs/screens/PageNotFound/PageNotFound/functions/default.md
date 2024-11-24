@@ -18,4 +18,4 @@ to the appropriate home page based on their admin status.
 
 ## Defined in
 
-[src/screens/PageNotFound/PageNotFound.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/PageNotFound/PageNotFound.tsx#L15)
+[src/screens/PageNotFound/PageNotFound.tsx:15](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/PageNotFound/PageNotFound.tsx#L15)

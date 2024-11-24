@@ -30,4 +30,4 @@ Also provides options to update or delete the agenda item.
 
 ## Defined in
 
-[src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)
+[src/components/AgendaItems/AgendaItemsPreviewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/AgendaItems/AgendaItemsPreviewModal.tsx#L41)

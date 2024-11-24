@@ -40,4 +40,4 @@ A JSX element containing the add-on entry.
 
 ## Defined in
 
-[src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L46)
+[src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx:46](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/AddOn/core/AddOnEntry/AddOnEntry.tsx#L46)

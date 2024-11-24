@@ -33,4 +33,4 @@ It includes fields for assignee, assigner, category, pre and post completion not
 
 ## Defined in
 
-[src/screens/OrganizationActionItems/ItemViewModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/OrganizationActionItems/ItemViewModal.tsx#L32)
+[src/screens/OrganizationActionItems/ItemViewModal.tsx:32](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/OrganizationActionItems/ItemViewModal.tsx#L32)

@@ -27,4 +27,4 @@ JSX.Element - The `Requests` component.
 
 ## Defined in
 
-[src/screens/BlockUser/BlockUser.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/BlockUser/BlockUser.tsx#L45)
+[src/screens/BlockUser/BlockUser.tsx:45](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/BlockUser/BlockUser.tsx#L45)

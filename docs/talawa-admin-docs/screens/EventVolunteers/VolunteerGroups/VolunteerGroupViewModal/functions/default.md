@@ -36,4 +36,4 @@ The modal includes:
 
 ## Defined in
 
-[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L41)
+[src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx:41](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/screens/EventVolunteers/VolunteerGroups/VolunteerGroupViewModal.tsx#L41)

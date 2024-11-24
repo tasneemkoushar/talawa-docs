@@ -25,4 +25,4 @@ JSX.Element - The rendered dropdown component for changing languages.
 
 ## Defined in
 
-[src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx#L29)
+[src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/ChangeLanguageDropdown/ChangeLanguageDropDown.tsx#L29)

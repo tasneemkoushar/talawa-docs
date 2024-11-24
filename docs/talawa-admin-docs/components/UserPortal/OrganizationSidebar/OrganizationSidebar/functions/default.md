@@ -28,4 +28,4 @@ JSX.Element representing the organization sidebar.
 
 ## Defined in
 
-[src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/d16b95ee179900e8e32a2296f14e948e6caea05b/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)
+[src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx:36](https://github.com/PalisadoesFoundation/talawa-admin/blob/084ac7e92dede9766b77e75cf296f40165965140/src/components/UserPortal/OrganizationSidebar/OrganizationSidebar.tsx#L36)
